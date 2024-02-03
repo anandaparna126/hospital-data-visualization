@@ -1,0 +1,1001 @@
+Patient_ID,Age,Gender,Condition,Procedure,Cost,Length_of_Stay,Readmission,Outcome,Satisfaction,Year_of_Admission,City
+1,32,Male,Fractured Arm,Lithotripsy,13911,5,Yes,Stable,4,2018,Satna
+2,41,Male,Prostate Cancer,Physical Therapy and Pain Management,7358,13,No,Stable,2,2016,Gwalior
+3,34,Female,Diabetes,Cast and Physical Therapy,21683,10,No,Stable,4,2017,Indore
+4,61,Female,Prostate Cancer,Delivery and Postnatal Care,6851,9,Yes,Recovered,5,2017,Jabalpur
+5,70,Male,Diabetes,Physical Therapy and Pain Management,21896,7,No,Stable,4,2020,Dewas
+6,49,Male,Stroke,Cardiac Catheterization,2246,9,Yes,Stable,4,2022,Ratlam
+7,44,Male,Fractured Leg,Lithotripsy,108,7,Yes,Recovered,5,2017,Satna
+8,64,Female,Childbirth,CT Scan and Medication,20972,5,Yes,Stable,3,2020,Satna
+9,28,Female,Fractured Arm,Radiation Therapy,20646,1,Yes,Stable,2,2020,Bhopal
+10,50,Male,Diabetes,Lithotripsy,1278,3,Yes,Recovered,5,2022,Satna
+11,52,Female,Cancer,Cardiac Catheterization,2267,11,Yes,Recovered,3,2022,Ujjain
+12,60,Male,Diabetes,CT Scan and Medication,1804,14,No,Recovered,4,2015,Jabalpur
+13,52,Male,Kidney Stones,X-Ray and Splint,19237,12,Yes,Stable,2,2018,Bhopal
+14,44,Male,Allergic Reaction,Physical Therapy and Pain Management,6015,3,Yes,Stable,2,2015,Gwalior
+15,45,Male,Fractured Arm,Cardiac Catheterization,642,8,Yes,Recovered,3,2016,Ujjain
+16,67,Female,Kidney Stones,Angioplasty,26376,5,Yes,Stable,2,2020,Dewas
+17,28,Male,Allergic Reaction,Surgery and Chemotherapy,27035,4,Yes,Stable,1,2016,Bhopal
+18,87,Female,Respiratory Infection,Antibiotics and Rest,27602,11,No,Recovered,2,2016,Dewas
+19,75,Female,Stroke,Epinephrine Injection,10402,8,Yes,Recovered,4,2022,Rewa
+20,47,Female,Prostate Cancer,Delivery and Postnatal Care,24435,3,No,Recovered,4,2015,Satna
+21,76,Female,Kidney Stones,Surgery and Chemotherapy,20743,2,Yes,Stable,1,2016,Gwalior
+22,38,Female,Fractured Arm,Lithotripsy,10687,5,Yes,Recovered,3,2016,Rewa
+23,37,Female,Osteoarthritis,Cast and Physical Therapy,21294,1,No,Stable,5,2015,Indore
+24,45,Female,Childbirth,Medication and Counseling,3327,3,Yes,Stable,5,2019,Ratlam
+25,25,Female,Appendicitis,Radiation Therapy,21878,2,No,Stable,5,2015,Ratlam
+26,28,Male,Respiratory Infection,Angioplasty,2150,2,No,Stable,5,2020,Rewa
+27,37,Male,Cancer,Angioplasty,311,7,Yes,Stable,2,2021,Jabalpur
+28,26,Male,Heart Attack,CT Scan and Medication,19468,7,Yes,Stable,5,2020,Rewa
+29,60,Male,Heart Attack,Cardiac Catheterization,7614,10,No,Recovered,2,2020,Dewas
+30,20,Male,Stroke,Insulin Therapy,1524,9,No,Recovered,3,2020,Rewa
+31,68,Male,Respiratory Infection,Radiation Therapy,1743,13,Yes,Recovered,5,2020,Bhopal
+32,85,Female,Fractured Arm,Physical Therapy and Pain Management,4394,4,Yes,Recovered,5,2018,Sagar
+33,67,Female,Kidney Stones,Insulin Therapy,19812,2,No,Stable,5,2015,Bhopal
+34,67,Male,Childbirth,Physical Therapy and Pain Management,8848,8,No,Stable,5,2015,Dewas
+35,85,Male,Fractured Leg,X-Ray and Splint,27468,12,Yes,Stable,1,2015,Dewas
+36,73,Male,Heart Disease,Surgery and Chemotherapy,15020,14,Yes,Recovered,2,2015,Jabalpur
+37,81,Male,Hypertension,X-Ray and Splint,10876,13,No,Recovered,1,2021,Jabalpur
+38,37,Male,Osteoarthritis,Cast and Physical Therapy,1066,9,No,Stable,2,2020,Bhopal
+39,78,Male,Prostate Cancer,Physical Therapy and Pain Management,2709,4,Yes,Recovered,3,2020,Indore
+40,62,Female,Heart Attack,Surgery and Chemotherapy,5964,12,No,Stable,1,2016,Jabalpur
+41,35,Female,Kidney Stones,X-Ray and Splint,17079,12,No,Stable,4,2021,Satna
+42,40,Female,Diabetes,Delivery and Postnatal Care,27373,2,No,Recovered,5,2022,Dewas
+43,42,Male,Heart Attack,Insulin Therapy,12981,2,Yes,Recovered,2,2017,Ujjain
+44,28,Female,Heart Disease,Physical Therapy and Pain Management,20749,14,No,Recovered,1,2019,Jabalpur
+45,40,Female,Allergic Reaction,Surgery and Chemotherapy,26268,4,Yes,Recovered,1,2021,Sagar
+46,58,Female,Osteoarthritis,Lithotripsy,13959,4,Yes,Recovered,3,2015,Jabalpur
+47,54,Male,Respiratory Infection,Lithotripsy,6500,5,Yes,Stable,5,2015,Sagar
+48,86,Female,Fractured Arm,Radiation Therapy,5752,7,No,Recovered,3,2015,Sagar
+49,63,Female,Diabetes,CT Scan and Medication,7969,1,No,Recovered,5,2022,Jabalpur
+50,30,Female,Diabetes,Lithotripsy,745,13,No,Recovered,5,2019,Sagar
+51,57,Male,Fractured Leg,CT Scan and Medication,9775,12,No,Stable,5,2021,Sagar
+52,57,Male,Heart Disease,Medication and Counseling,7214,6,No,Stable,1,2021,Gwalior
+53,39,Male,Appendicitis,Medication and Counseling,1579,10,Yes,Stable,4,2015,Sagar
+54,75,Female,Fractured Leg,Angioplasty,24631,6,No,Recovered,3,2015,Ratlam
+55,87,Female,Fractured Leg,Medication and Counseling,25100,7,No,Stable,5,2020,Jabalpur
+56,28,Male,Heart Disease,Epinephrine Injection,28459,12,Yes,Stable,5,2017,Satna
+57,73,Male,Osteoarthritis,Physical Therapy and Pain Management,4621,10,No,Recovered,3,2018,Dewas
+58,62,Male,Diabetes,Antibiotics and Rest,595,3,No,Stable,5,2020,Gwalior
+59,75,Female,Stroke,Angioplasty,25533,3,Yes,Stable,4,2018,Ratlam
+60,63,Male,Respiratory Infection,Cast and Physical Therapy,26861,10,No,Recovered,2,2020,Ratlam
+61,76,Male,Hypertension,CT Scan and Medication,27160,12,Yes,Recovered,1,2021,Dewas
+62,85,Male,Kidney Stones,X-Ray and Splint,7199,11,No,Recovered,5,2015,Ratlam
+63,53,Female,Childbirth,Lithotripsy,17361,11,No,Recovered,4,2021,Satna
+64,89,Female,Osteoarthritis,Lithotripsy,16211,8,Yes,Recovered,3,2016,Ratlam
+65,77,Male,Heart Attack,X-Ray and Splint,22301,4,Yes,Stable,2,2019,Rewa
+66,26,Female,Fractured Leg,Cardiac Catheterization,22722,4,No,Stable,5,2015,Rewa
+67,35,Female,Diabetes,Surgery and Chemotherapy,26950,9,No,Stable,4,2017,Bhopal
+68,37,Female,Childbirth,Appendectomy,23479,6,No,Stable,1,2019,Rewa
+69,75,Male,Kidney Stones,Insulin Therapy,12353,14,No,Recovered,4,2015,Satna
+70,42,Male,Cancer,Delivery and Postnatal Care,20795,13,Yes,Stable,5,2017,Satna
+71,23,Female,Fractured Leg,Antibiotics and Rest,973,1,Yes,Recovered,2,2017,Sagar
+72,29,Female,Osteoarthritis,X-Ray and Splint,1935,1,No,Recovered,3,2019,Bhopal
+73,66,Male,Heart Disease,Lithotripsy,12251,12,Yes,Stable,5,2020,Ujjain
+74,22,Female,Fractured Arm,Physical Therapy and Pain Management,19670,12,Yes,Recovered,1,2018,Jabalpur
+75,63,Female,Cancer,Lithotripsy,10256,6,Yes,Recovered,3,2019,Bhopal
+76,65,Female,Heart Disease,Cardiac Catheterization,2722,11,No,Recovered,1,2015,Dewas
+77,74,Male,Stroke,Medication and Counseling,1033,2,No,Stable,2,2021,Indore
+78,61,Male,Cancer,CT Scan and Medication,12684,5,Yes,Stable,3,2017,Gwalior
+79,51,Male,Allergic Reaction,Appendectomy,16364,13,No,Recovered,1,2016,Satna
+80,83,Female,Appendicitis,Medication and Counseling,24178,13,No,Stable,5,2022,Satna
+81,78,Female,Fractured Leg,Medication and Counseling,13888,13,Yes,Stable,3,2022,Dewas
+82,74,Female,Diabetes,Appendectomy,5484,10,Yes,Recovered,1,2021,Jabalpur
+83,56,Female,Kidney Stones,Cardiac Catheterization,7464,2,Yes,Stable,1,2015,Ujjain
+84,80,Male,Childbirth,Lithotripsy,5834,10,No,Stable,4,2016,Satna
+85,81,Female,Childbirth,Surgery and Chemotherapy,21715,9,No,Stable,2,2015,Ujjain
+86,70,Male,Hypertension,X-Ray and Splint,23380,14,No,Recovered,3,2020,Jabalpur
+87,65,Female,Heart Attack,Angioplasty,28486,2,Yes,Stable,4,2017,Satna
+88,80,Female,Childbirth,Appendectomy,13391,7,No,Stable,2,2018,Bhopal
+89,42,Female,Osteoarthritis,Radiation Therapy,4769,2,Yes,Stable,3,2020,Ujjain
+90,61,Male,Appendicitis,Cardiac Catheterization,29278,4,Yes,Recovered,5,2016,Dewas
+91,42,Male,Diabetes,Medication and Counseling,6301,11,No,Recovered,2,2020,Gwalior
+92,27,Female,Prostate Cancer,X-Ray and Splint,27472,13,No,Stable,1,2021,Dewas
+93,22,Male,Appendicitis,Lithotripsy,16436,4,No,Stable,3,2015,Gwalior
+94,71,Male,Respiratory Infection,Physical Therapy and Pain Management,3295,3,No,Recovered,5,2022,Indore
+95,59,Female,Cancer,Insulin Therapy,26781,11,Yes,Stable,1,2016,Ratlam
+96,57,Male,Diabetes,Lithotripsy,24444,9,No,Stable,5,2015,Jabalpur
+97,21,Female,Appendicitis,Cardiac Catheterization,3895,2,Yes,Recovered,3,2015,Bhopal
+98,61,Male,Childbirth,Lithotripsy,20718,8,Yes,Stable,4,2022,Ratlam
+99,77,Male,Allergic Reaction,Radiation Therapy,12579,14,No,Recovered,2,2022,Sagar
+100,42,Male,Prostate Cancer,Surgery and Chemotherapy,20096,9,Yes,Recovered,4,2015,Indore
+101,34,Male,Cancer,Antibiotics and Rest,13146,9,Yes,Stable,3,2022,Gwalior
+102,36,Male,Cancer,Epinephrine Injection,17872,6,Yes,Stable,3,2018,Indore
+103,46,Male,Hypertension,Delivery and Postnatal Care,6572,7,Yes,Recovered,5,2017,Satna
+104,78,Female,Fractured Arm,Radiation Therapy,16389,5,No,Recovered,3,2016,Jabalpur
+105,54,Male,Fractured Leg,Epinephrine Injection,18555,4,No,Stable,1,2015,Sagar
+106,66,Male,Stroke,Surgery and Chemotherapy,3827,10,No,Recovered,2,2022,Ratlam
+107,67,Female,Respiratory Infection,Antibiotics and Rest,21066,12,Yes,Recovered,5,2021,Satna
+108,48,Female,Heart Disease,Angioplasty,27937,6,Yes,Recovered,5,2015,Indore
+109,45,Female,Cancer,Medication and Counseling,3518,11,No,Recovered,5,2021,Bhopal
+110,60,Male,Kidney Stones,Cast and Physical Therapy,25532,2,Yes,Recovered,3,2020,Ratlam
+111,27,Female,Allergic Reaction,X-Ray and Splint,10263,14,No,Recovered,2,2018,Satna
+112,70,Female,Kidney Stones,Radiation Therapy,17401,9,No,Recovered,3,2017,Bhopal
+113,20,Female,Heart Attack,Medication and Counseling,29371,9,Yes,Recovered,3,2017,Jabalpur
+114,61,Female,Fractured Leg,Medication and Counseling,16991,7,Yes,Stable,2,2018,Rewa
+115,86,Female,Allergic Reaction,Surgery and Chemotherapy,18708,6,No,Stable,5,2019,Sagar
+116,69,Male,Cancer,Cardiac Catheterization,5301,5,No,Stable,4,2015,Indore
+117,34,Male,Osteoarthritis,Angioplasty,7652,1,Yes,Recovered,5,2020,Rewa
+118,49,Male,Kidney Stones,Delivery and Postnatal Care,14546,14,No,Recovered,5,2017,Sagar
+119,64,Female,Prostate Cancer,Cardiac Catheterization,628,13,No,Stable,2,2017,Indore
+120,32,Female,Fractured Leg,Antibiotics and Rest,25430,5,No,Recovered,2,2022,Gwalior
+121,74,Male,Stroke,Lithotripsy,12137,10,Yes,Stable,4,2016,Ratlam
+122,86,Female,Childbirth,Cast and Physical Therapy,8597,11,No,Recovered,5,2022,Rewa
+123,32,Female,Appendicitis,Cardiac Catheterization,3635,8,No,Stable,2,2020,Rewa
+124,51,Female,Diabetes,Radiation Therapy,8248,14,No,Recovered,5,2019,Sagar
+125,36,Female,Heart Attack,Antibiotics and Rest,11396,1,Yes,Stable,4,2022,Rewa
+126,48,Female,Childbirth,Surgery and Chemotherapy,10415,10,No,Recovered,3,2015,Sagar
+127,34,Male,Childbirth,Radiation Therapy,11204,7,No,Recovered,1,2015,Ujjain
+128,69,Female,Hypertension,CT Scan and Medication,15340,2,No,Recovered,5,2015,Bhopal
+129,52,Male,Fractured Leg,Surgery and Chemotherapy,13072,11,Yes,Stable,5,2021,Dewas
+130,69,Female,Cancer,Cast and Physical Therapy,25036,12,No,Recovered,2,2017,Bhopal
+131,76,Female,Heart Disease,Appendectomy,7551,6,Yes,Stable,3,2017,Rewa
+132,66,Male,Respiratory Infection,Appendectomy,17303,8,No,Stable,5,2021,Rewa
+133,57,Male,Osteoarthritis,Radiation Therapy,5353,13,No,Stable,1,2020,Ujjain
+134,80,Male,Appendicitis,Lithotripsy,15652,4,No,Recovered,1,2016,Bhopal
+135,80,Female,Hypertension,Angioplasty,25878,9,Yes,Recovered,3,2021,Bhopal
+136,28,Female,Heart Disease,Lithotripsy,8778,13,No,Stable,5,2021,Ujjain
+137,33,Female,Cancer,Appendectomy,5522,13,Yes,Recovered,1,2020,Ratlam
+138,78,Male,Diabetes,Insulin Therapy,29823,6,Yes,Recovered,3,2020,Ratlam
+139,51,Female,Prostate Cancer,Epinephrine Injection,18689,6,Yes,Recovered,4,2021,Satna
+140,48,Female,Diabetes,Delivery and Postnatal Care,3813,6,Yes,Stable,3,2015,Sagar
+141,45,Male,Fractured Arm,Epinephrine Injection,5952,12,Yes,Stable,4,2018,Indore
+142,77,Male,Appendicitis,Epinephrine Injection,29942,12,No,Stable,2,2016,Gwalior
+143,24,Male,Respiratory Infection,Cast and Physical Therapy,20393,7,No,Recovered,5,2017,Dewas
+144,44,Male,Hypertension,CT Scan and Medication,2892,3,No,Stable,1,2019,Bhopal
+145,37,Female,Allergic Reaction,Delivery and Postnatal Care,1935,11,Yes,Recovered,4,2018,Jabalpur
+146,64,Female,Allergic Reaction,Appendectomy,9520,3,No,Stable,1,2019,Sagar
+147,82,Female,Respiratory Infection,Radiation Therapy,6017,5,Yes,Recovered,1,2015,Ujjain
+148,63,Male,Heart Disease,Radiation Therapy,15424,1,No,Recovered,3,2021,Sagar
+149,37,Female,Hypertension,Insulin Therapy,6193,12,Yes,Stable,2,2018,Dewas
+150,55,Female,Appendicitis,Medication and Counseling,9157,1,Yes,Recovered,3,2016,Ratlam
+151,57,Male,Heart Attack,Epinephrine Injection,4708,14,Yes,Stable,4,2015,Indore
+152,74,Male,Respiratory Infection,Angioplasty,22459,6,No,Stable,4,2019,Ujjain
+153,24,Female,Stroke,Epinephrine Injection,25418,13,Yes,Recovered,1,2018,Bhopal
+154,58,Male,Respiratory Infection,Cardiac Catheterization,781,6,Yes,Recovered,3,2015,Jabalpur
+155,62,Female,Allergic Reaction,CT Scan and Medication,5393,1,Yes,Recovered,3,2015,Rewa
+156,24,Female,Childbirth,CT Scan and Medication,29808,3,Yes,Stable,5,2020,Jabalpur
+157,56,Female,Heart Attack,Epinephrine Injection,16655,13,No,Recovered,3,2015,Bhopal
+158,50,Male,Hypertension,Radiation Therapy,26879,4,Yes,Stable,2,2019,Jabalpur
+159,61,Male,Respiratory Infection,Appendectomy,7330,2,No,Recovered,4,2019,Dewas
+160,63,Male,Kidney Stones,Physical Therapy and Pain Management,18297,12,Yes,Recovered,2,2018,Gwalior
+161,42,Female,Prostate Cancer,Angioplasty,6231,13,Yes,Stable,2,2018,Jabalpur
+162,77,Male,Stroke,Angioplasty,9660,12,Yes,Recovered,2,2021,Jabalpur
+163,22,Female,Heart Disease,Cardiac Catheterization,24850,7,No,Stable,1,2015,Gwalior
+164,24,Female,Respiratory Infection,CT Scan and Medication,28722,9,No,Recovered,3,2017,Indore
+165,67,Male,Appendicitis,Antibiotics and Rest,18975,10,No,Stable,5,2019,Ratlam
+166,27,Female,Heart Attack,Angioplasty,5003,6,No,Stable,2,2018,Ujjain
+167,56,Male,Kidney Stones,Radiation Therapy,6752,4,No,Stable,4,2016,Indore
+168,61,Female,Hypertension,Antibiotics and Rest,15820,11,Yes,Recovered,5,2022,Sagar
+169,39,Female,Osteoarthritis,Medication and Counseling,6482,13,No,Recovered,1,2018,Gwalior
+170,41,Male,Respiratory Infection,Physical Therapy and Pain Management,19995,12,No,Stable,5,2020,Jabalpur
+171,83,Female,Osteoarthritis,Cardiac Catheterization,20320,9,No,Recovered,5,2017,Ratlam
+172,74,Female,Diabetes,Insulin Therapy,13613,11,Yes,Stable,3,2017,Dewas
+173,39,Female,Stroke,X-Ray and Splint,2193,6,Yes,Recovered,5,2021,Gwalior
+174,89,Male,Heart Attack,Medication and Counseling,23729,6,No,Stable,5,2019,Ujjain
+175,43,Male,Osteoarthritis,Radiation Therapy,5373,10,No,Stable,1,2017,Ratlam
+176,75,Male,Prostate Cancer,Medication and Counseling,23402,6,Yes,Stable,4,2017,Rewa
+177,60,Male,Stroke,Antibiotics and Rest,18646,5,Yes,Recovered,1,2016,Ujjain
+178,87,Male,Hypertension,Cardiac Catheterization,19675,2,Yes,Recovered,5,2019,Jabalpur
+179,65,Female,Heart Disease,Cardiac Catheterization,440,9,Yes,Stable,1,2018,Indore
+180,22,Male,Cancer,Epinephrine Injection,28046,14,No,Stable,5,2020,Ujjain
+181,44,Male,Allergic Reaction,Antibiotics and Rest,1293,4,Yes,Recovered,4,2021,Rewa
+182,20,Female,Allergic Reaction,Insulin Therapy,25386,2,No,Recovered,4,2020,Dewas
+183,25,Female,Prostate Cancer,Medication and Counseling,692,7,Yes,Recovered,5,2017,Bhopal
+184,33,Male,Prostate Cancer,CT Scan and Medication,16829,12,Yes,Recovered,4,2022,Rewa
+185,65,Male,Diabetes,Radiation Therapy,20725,6,No,Recovered,3,2019,Bhopal
+186,64,Female,Osteoarthritis,Medication and Counseling,16449,3,No,Stable,5,2020,Bhopal
+187,41,Female,Fractured Leg,Cardiac Catheterization,25128,14,Yes,Recovered,1,2015,Satna
+188,56,Female,Heart Attack,Radiation Therapy,17859,7,Yes,Recovered,2,2019,Dewas
+189,42,Male,Heart Attack,Antibiotics and Rest,11162,5,No,Recovered,2,2018,Indore
+190,66,Male,Heart Disease,Surgery and Chemotherapy,1703,13,No,Stable,4,2022,Ujjain
+191,57,Female,Respiratory Infection,Angioplasty,18965,11,Yes,Stable,4,2017,Gwalior
+192,80,Female,Heart Attack,Angioplasty,23243,2,Yes,Recovered,2,2021,Gwalior
+193,51,Male,Stroke,Physical Therapy and Pain Management,25935,1,No,Stable,3,2020,Sagar
+194,84,Male,Kidney Stones,Epinephrine Injection,14573,11,Yes,Stable,1,2022,Gwalior
+195,21,Male,Heart Attack,Surgery and Chemotherapy,19051,5,Yes,Recovered,3,2016,Dewas
+196,27,Male,Hypertension,Appendectomy,5986,7,Yes,Stable,2,2016,Satna
+197,84,Female,Hypertension,Insulin Therapy,26555,10,No,Stable,2,2015,Indore
+198,20,Female,Kidney Stones,CT Scan and Medication,23386,1,No,Recovered,4,2021,Satna
+199,59,Male,Fractured Arm,Delivery and Postnatal Care,7761,13,No,Recovered,4,2019,Bhopal
+200,23,Female,Prostate Cancer,Surgery and Chemotherapy,16158,12,No,Stable,5,2020,Gwalior
+201,72,Female,Prostate Cancer,Angioplasty,17572,7,No,Recovered,4,2022,Jabalpur
+202,73,Female,Kidney Stones,Cast and Physical Therapy,1176,14,Yes,Recovered,5,2020,Indore
+203,27,Female,Heart Attack,X-Ray and Splint,25742,10,No,Stable,5,2016,Bhopal
+204,49,Female,Stroke,Epinephrine Injection,23411,14,No,Stable,4,2017,Dewas
+205,63,Male,Kidney Stones,X-Ray and Splint,24039,10,No,Recovered,5,2016,Ratlam
+206,57,Male,Prostate Cancer,Radiation Therapy,17650,6,Yes,Stable,4,2015,Sagar
+207,21,Male,Hypertension,Antibiotics and Rest,19821,2,No,Stable,2,2015,Indore
+208,46,Female,Allergic Reaction,Cast and Physical Therapy,9468,11,No,Stable,4,2016,Gwalior
+209,60,Female,Heart Attack,Cardiac Catheterization,19973,10,Yes,Recovered,2,2020,Sagar
+210,49,Male,Appendicitis,Delivery and Postnatal Care,25701,6,Yes,Recovered,2,2016,Rewa
+211,47,Female,Cancer,Appendectomy,29551,5,Yes,Stable,3,2020,Satna
+212,21,Female,Allergic Reaction,Appendectomy,20307,12,No,Stable,3,2020,Indore
+213,74,Female,Prostate Cancer,Radiation Therapy,12643,2,No,Recovered,5,2016,Ratlam
+214,67,Female,Childbirth,Antibiotics and Rest,20150,2,Yes,Stable,3,2018,Jabalpur
+215,26,Female,Osteoarthritis,Delivery and Postnatal Care,22188,6,Yes,Stable,5,2017,Ujjain
+216,37,Male,Allergic Reaction,Radiation Therapy,22155,5,No,Recovered,4,2019,Ratlam
+217,38,Female,Prostate Cancer,Cardiac Catheterization,15598,8,Yes,Recovered,3,2021,Dewas
+218,77,Male,Appendicitis,Insulin Therapy,8849,7,No,Stable,5,2017,Indore
+219,72,Male,Fractured Leg,X-Ray and Splint,24904,4,Yes,Stable,2,2018,Bhopal
+220,56,Male,Diabetes,Lithotripsy,21168,14,Yes,Recovered,2,2017,Satna
+221,88,Female,Cancer,Appendectomy,29955,9,Yes,Recovered,5,2015,Jabalpur
+222,87,Female,Allergic Reaction,Radiation Therapy,12470,10,Yes,Recovered,3,2022,Gwalior
+223,40,Male,Hypertension,Radiation Therapy,1327,2,No,Stable,4,2022,Satna
+224,60,Female,Fractured Leg,X-Ray and Splint,16475,13,Yes,Recovered,5,2019,Ratlam
+225,32,Female,Fractured Arm,Medication and Counseling,15265,12,Yes,Stable,3,2021,Bhopal
+226,25,Male,Appendicitis,Antibiotics and Rest,18870,9,Yes,Recovered,5,2018,Jabalpur
+227,87,Female,Prostate Cancer,Physical Therapy and Pain Management,22945,13,No,Stable,3,2017,Bhopal
+228,69,Male,Appendicitis,CT Scan and Medication,1769,13,Yes,Recovered,4,2015,Jabalpur
+229,89,Male,Hypertension,Medication and Counseling,1560,1,Yes,Stable,1,2016,Jabalpur
+230,28,Male,Heart Attack,Appendectomy,19871,4,No,Stable,3,2015,Rewa
+231,45,Female,Stroke,Antibiotics and Rest,6563,2,No,Recovered,1,2022,Gwalior
+232,30,Male,Respiratory Infection,Physical Therapy and Pain Management,21229,2,Yes,Recovered,2,2016,Satna
+233,87,Female,Fractured Leg,Angioplasty,6196,11,Yes,Recovered,5,2019,Rewa
+234,57,Male,Heart Disease,Epinephrine Injection,1105,9,No,Recovered,5,2015,Satna
+235,73,Female,Heart Disease,Delivery and Postnatal Care,19820,2,Yes,Recovered,1,2020,Dewas
+236,55,Female,Fractured Leg,Epinephrine Injection,12547,3,No,Recovered,3,2019,Ratlam
+237,76,Female,Diabetes,CT Scan and Medication,21086,1,Yes,Stable,4,2020,Indore
+238,79,Female,Heart Disease,X-Ray and Splint,19849,10,No,Recovered,3,2020,Bhopal
+239,60,Male,Respiratory Infection,Surgery and Chemotherapy,13541,10,No,Recovered,1,2022,Jabalpur
+240,26,Male,Diabetes,Epinephrine Injection,20441,12,No,Stable,1,2018,Ujjain
+241,27,Male,Stroke,Epinephrine Injection,4560,12,No,Recovered,3,2021,Bhopal
+242,41,Female,Osteoarthritis,Insulin Therapy,12302,3,No,Recovered,4,2021,Bhopal
+243,76,Female,Diabetes,Epinephrine Injection,5890,2,Yes,Stable,2,2022,Sagar
+244,40,Male,Childbirth,CT Scan and Medication,22485,11,No,Stable,1,2018,Indore
+245,25,Female,Childbirth,Antibiotics and Rest,25124,6,Yes,Stable,1,2021,Indore
+246,30,Male,Prostate Cancer,Cast and Physical Therapy,23804,6,No,Recovered,1,2016,Sagar
+247,48,Male,Fractured Arm,Antibiotics and Rest,28919,13,No,Stable,2,2022,Dewas
+248,78,Male,Diabetes,Radiation Therapy,5205,12,No,Recovered,1,2022,Jabalpur
+249,84,Male,Prostate Cancer,Medication and Counseling,3522,7,Yes,Recovered,4,2017,Rewa
+250,79,Female,Kidney Stones,Physical Therapy and Pain Management,3196,6,No,Stable,4,2015,Indore
+251,57,Female,Prostate Cancer,CT Scan and Medication,23503,2,No,Stable,3,2020,Dewas
+252,27,Male,Prostate Cancer,Cardiac Catheterization,6176,3,Yes,Stable,1,2020,Sagar
+253,77,Female,Allergic Reaction,Medication and Counseling,7475,4,Yes,Stable,2,2019,Jabalpur
+254,20,Female,Hypertension,Appendectomy,9239,4,Yes,Stable,4,2015,Gwalior
+255,50,Female,Heart Attack,Radiation Therapy,7414,8,No,Stable,2,2020,Ujjain
+256,23,Male,Fractured Arm,X-Ray and Splint,27669,10,No,Stable,1,2016,Dewas
+257,70,Female,Cancer,Physical Therapy and Pain Management,10223,10,Yes,Recovered,3,2016,Ratlam
+258,76,Female,Osteoarthritis,Lithotripsy,14960,13,Yes,Stable,1,2021,Gwalior
+259,76,Male,Prostate Cancer,Epinephrine Injection,4663,2,Yes,Recovered,2,2021,Sagar
+260,41,Female,Childbirth,CT Scan and Medication,13856,5,Yes,Recovered,2,2022,Ujjain
+261,40,Male,Prostate Cancer,Insulin Therapy,14434,14,Yes,Stable,1,2016,Jabalpur
+262,77,Female,Hypertension,Medication and Counseling,14644,7,Yes,Recovered,3,2020,Jabalpur
+263,43,Male,Osteoarthritis,Surgery and Chemotherapy,9866,12,No,Recovered,2,2021,Ujjain
+264,44,Male,Appendicitis,Epinephrine Injection,6057,5,No,Stable,1,2015,Rewa
+265,58,Female,Heart Disease,Radiation Therapy,20122,9,No,Stable,1,2018,Dewas
+266,82,Female,Allergic Reaction,Radiation Therapy,807,10,Yes,Recovered,1,2021,Sagar
+267,38,Female,Heart Disease,Angioplasty,10742,2,No,Recovered,1,2020,Satna
+268,84,Male,Prostate Cancer,Antibiotics and Rest,21109,9,No,Stable,3,2015,Ujjain
+269,84,Male,Prostate Cancer,Insulin Therapy,3399,10,No,Recovered,5,2016,Satna
+270,21,Male,Allergic Reaction,Antibiotics and Rest,11975,1,Yes,Stable,3,2021,Ujjain
+271,25,Male,Osteoarthritis,Epinephrine Injection,22301,10,No,Stable,3,2016,Ratlam
+272,51,Male,Appendicitis,X-Ray and Splint,10461,13,Yes,Recovered,4,2015,Satna
+273,88,Male,Allergic Reaction,X-Ray and Splint,3093,11,Yes,Recovered,5,2015,Jabalpur
+274,55,Female,Appendicitis,CT Scan and Medication,15704,14,No,Stable,3,2017,Bhopal
+275,82,Male,Prostate Cancer,Surgery and Chemotherapy,25259,3,No,Recovered,3,2015,Indore
+276,40,Male,Cancer,Epinephrine Injection,3750,12,No,Stable,1,2016,Dewas
+277,46,Female,Osteoarthritis,Delivery and Postnatal Care,18178,8,No,Stable,2,2020,Bhopal
+278,46,Male,Allergic Reaction,CT Scan and Medication,29288,13,No,Recovered,5,2017,Rewa
+279,63,Male,Cancer,Appendectomy,16441,3,Yes,Recovered,3,2022,Rewa
+280,36,Female,Prostate Cancer,Delivery and Postnatal Care,20255,6,No,Stable,2,2020,Bhopal
+281,32,Female,Cancer,Antibiotics and Rest,16700,10,Yes,Recovered,5,2019,Rewa
+282,61,Female,Osteoarthritis,Cardiac Catheterization,16666,3,No,Recovered,5,2020,Rewa
+283,33,Female,Prostate Cancer,Antibiotics and Rest,18273,9,Yes,Recovered,5,2020,Jabalpur
+284,68,Female,Fractured Arm,Antibiotics and Rest,28535,1,Yes,Recovered,4,2017,Satna
+285,62,Female,Prostate Cancer,Appendectomy,8642,4,Yes,Recovered,5,2021,Rewa
+286,85,Female,Stroke,CT Scan and Medication,28786,13,No,Stable,3,2020,Sagar
+287,53,Male,Fractured Leg,Medication and Counseling,21170,14,Yes,Recovered,1,2018,Ratlam
+288,80,Male,Childbirth,Lithotripsy,9552,11,No,Recovered,1,2019,Ratlam
+289,82,Male,Stroke,Appendectomy,10147,4,No,Recovered,3,2017,Satna
+290,84,Female,Fractured Leg,Angioplasty,23182,10,No,Stable,1,2019,Rewa
+291,43,Female,Fractured Leg,Physical Therapy and Pain Management,9359,9,No,Stable,3,2020,Gwalior
+292,81,Female,Allergic Reaction,CT Scan and Medication,18037,13,Yes,Recovered,4,2022,Rewa
+293,45,Female,Stroke,CT Scan and Medication,9985,4,No,Stable,4,2022,Satna
+294,68,Male,Osteoarthritis,Lithotripsy,24015,1,Yes,Stable,4,2020,Jabalpur
+295,77,Male,Respiratory Infection,Surgery and Chemotherapy,8296,3,Yes,Recovered,4,2022,Ujjain
+296,55,Female,Fractured Arm,CT Scan and Medication,14410,7,Yes,Recovered,1,2018,Sagar
+297,80,Male,Fractured Arm,Epinephrine Injection,6462,10,Yes,Stable,2,2020,Satna
+298,22,Female,Stroke,Cardiac Catheterization,12630,1,No,Recovered,4,2017,Ratlam
+299,76,Female,Kidney Stones,Cast and Physical Therapy,21978,8,No,Stable,3,2021,Rewa
+300,70,Male,Kidney Stones,Delivery and Postnatal Care,3345,11,No,Stable,2,2020,Indore
+301,51,Female,Fractured Leg,Cardiac Catheterization,8145,7,Yes,Recovered,3,2021,Rewa
+302,33,Male,Stroke,Physical Therapy and Pain Management,22075,5,Yes,Stable,3,2017,Gwalior
+303,75,Male,Allergic Reaction,Antibiotics and Rest,27297,5,No,Stable,5,2020,Bhopal
+304,28,Male,Stroke,Cardiac Catheterization,15620,5,No,Recovered,1,2021,Ujjain
+305,21,Male,Stroke,Cardiac Catheterization,20680,6,No,Recovered,1,2016,Gwalior
+306,82,Female,Stroke,Angioplasty,19461,3,Yes,Recovered,3,2021,Gwalior
+307,72,Female,Respiratory Infection,Angioplasty,18675,9,No,Recovered,4,2017,Ujjain
+308,47,Male,Kidney Stones,X-Ray and Splint,8687,2,Yes,Stable,3,2022,Jabalpur
+309,31,Male,Respiratory Infection,Surgery and Chemotherapy,13733,14,Yes,Recovered,1,2017,Ujjain
+310,86,Male,Cancer,Epinephrine Injection,10484,9,No,Stable,3,2015,Indore
+311,87,Female,Osteoarthritis,Cardiac Catheterization,15225,1,Yes,Stable,4,2018,Ujjain
+312,31,Male,Kidney Stones,Radiation Therapy,1288,1,Yes,Recovered,1,2022,Gwalior
+313,52,Female,Prostate Cancer,Insulin Therapy,4170,7,No,Stable,3,2015,Sagar
+314,22,Male,Stroke,Delivery and Postnatal Care,17779,2,No,Recovered,5,2016,Sagar
+315,32,Female,Prostate Cancer,Delivery and Postnatal Care,338,14,No,Recovered,2,2016,Sagar
+316,27,Female,Childbirth,Physical Therapy and Pain Management,17282,4,Yes,Stable,4,2016,Sagar
+317,28,Female,Respiratory Infection,Radiation Therapy,25166,10,Yes,Stable,2,2020,Bhopal
+318,65,Male,Appendicitis,Cast and Physical Therapy,13281,10,Yes,Recovered,1,2020,Jabalpur
+319,80,Male,Osteoarthritis,Epinephrine Injection,13229,2,Yes,Recovered,2,2018,Sagar
+320,87,Male,Osteoarthritis,Epinephrine Injection,249,11,No,Recovered,4,2016,Ratlam
+321,57,Female,Stroke,Cardiac Catheterization,1038,7,Yes,Stable,5,2022,Rewa
+322,65,Female,Prostate Cancer,Physical Therapy and Pain Management,11124,9,No,Recovered,5,2019,Satna
+323,25,Female,Diabetes,Radiation Therapy,1832,9,Yes,Recovered,4,2015,Rewa
+324,78,Male,Childbirth,X-Ray and Splint,26672,8,No,Stable,3,2017,Rewa
+325,31,Male,Heart Attack,Appendectomy,19748,4,Yes,Stable,4,2020,Gwalior
+326,42,Female,Heart Attack,Cardiac Catheterization,29085,8,Yes,Stable,4,2015,Dewas
+327,87,Male,Appendicitis,Antibiotics and Rest,22351,10,No,Stable,1,2017,Dewas
+328,24,Female,Osteoarthritis,Angioplasty,5866,14,Yes,Recovered,2,2022,Satna
+329,66,Male,Respiratory Infection,Antibiotics and Rest,16295,12,Yes,Stable,2,2016,Rewa
+330,32,Female,Appendicitis,Cast and Physical Therapy,17675,8,Yes,Stable,1,2021,Jabalpur
+331,38,Female,Respiratory Infection,Cast and Physical Therapy,25017,12,Yes,Stable,4,2021,Ratlam
+332,33,Male,Stroke,Physical Therapy and Pain Management,6632,12,Yes,Recovered,2,2022,Jabalpur
+333,35,Male,Heart Disease,Delivery and Postnatal Care,4261,6,No,Recovered,5,2018,Gwalior
+334,37,Female,Stroke,Medication and Counseling,18081,12,No,Stable,1,2015,Jabalpur
+335,37,Male,Kidney Stones,Physical Therapy and Pain Management,11093,4,No,Recovered,5,2020,Jabalpur
+336,28,Male,Hypertension,CT Scan and Medication,20911,9,Yes,Stable,5,2015,Ujjain
+337,52,Male,Stroke,Lithotripsy,24625,2,No,Recovered,2,2020,Sagar
+338,49,Male,Prostate Cancer,Radiation Therapy,14354,2,Yes,Stable,3,2015,Rewa
+339,73,Female,Cancer,Medication and Counseling,19995,5,No,Recovered,5,2016,Rewa
+340,57,Male,Heart Disease,Medication and Counseling,7052,12,Yes,Recovered,1,2020,Sagar
+341,32,Female,Stroke,Epinephrine Injection,20023,14,No,Recovered,1,2019,Sagar
+342,73,Male,Respiratory Infection,Cardiac Catheterization,28462,11,Yes,Recovered,3,2015,Dewas
+343,50,Female,Respiratory Infection,Lithotripsy,23347,14,No,Stable,4,2019,Ratlam
+344,86,Female,Hypertension,Delivery and Postnatal Care,20612,3,Yes,Stable,2,2017,Rewa
+345,43,Female,Hypertension,Surgery and Chemotherapy,22108,6,Yes,Stable,3,2017,Dewas
+346,68,Female,Prostate Cancer,Insulin Therapy,7445,10,No,Recovered,3,2022,Ujjain
+347,71,Male,Hypertension,Appendectomy,28666,5,Yes,Recovered,3,2018,Jabalpur
+348,28,Male,Appendicitis,Cast and Physical Therapy,5247,8,No,Stable,1,2022,Bhopal
+349,33,Male,Respiratory Infection,Delivery and Postnatal Care,4500,2,No,Recovered,3,2018,Satna
+350,34,Female,Childbirth,Cardiac Catheterization,17218,11,No,Stable,4,2016,Ratlam
+351,87,Female,Stroke,X-Ray and Splint,10707,9,No,Recovered,1,2017,Rewa
+352,52,Female,Childbirth,Insulin Therapy,22009,5,No,Stable,1,2019,Rewa
+353,41,Male,Hypertension,Epinephrine Injection,9401,5,Yes,Stable,3,2021,Sagar
+354,43,Male,Stroke,Physical Therapy and Pain Management,5913,1,No,Stable,5,2019,Dewas
+355,52,Female,Prostate Cancer,Angioplasty,5722,11,No,Stable,4,2016,Jabalpur
+356,43,Male,Respiratory Infection,Antibiotics and Rest,26107,13,No,Stable,1,2017,Ujjain
+357,42,Male,Hypertension,Radiation Therapy,22311,14,Yes,Recovered,4,2019,Bhopal
+358,88,Female,Respiratory Infection,Cast and Physical Therapy,26240,14,Yes,Stable,1,2022,Bhopal
+359,74,Male,Fractured Leg,Lithotripsy,16751,4,No,Stable,1,2021,Bhopal
+360,34,Female,Respiratory Infection,Lithotripsy,22720,6,No,Recovered,3,2015,Jabalpur
+361,76,Female,Heart Attack,Surgery and Chemotherapy,18285,13,Yes,Stable,1,2016,Jabalpur
+362,27,Male,Allergic Reaction,Insulin Therapy,23697,12,Yes,Recovered,4,2021,Sagar
+363,35,Female,Heart Attack,Cardiac Catheterization,17271,1,No,Stable,2,2017,Ujjain
+364,69,Male,Prostate Cancer,Appendectomy,13972,4,No,Recovered,5,2021,Satna
+365,77,Female,Kidney Stones,Medication and Counseling,10506,1,No,Stable,4,2015,Satna
+366,29,Female,Diabetes,Physical Therapy and Pain Management,23325,10,Yes,Recovered,5,2020,Bhopal
+367,35,Male,Childbirth,Radiation Therapy,26265,10,No,Recovered,1,2015,Sagar
+368,33,Female,Heart Disease,X-Ray and Splint,14170,10,Yes,Stable,2,2020,Dewas
+369,49,Male,Prostate Cancer,Angioplasty,20589,2,No,Stable,2,2020,Dewas
+370,54,Male,Cancer,Insulin Therapy,14121,5,No,Recovered,3,2018,Sagar
+371,62,Female,Diabetes,Physical Therapy and Pain Management,3087,7,No,Stable,4,2021,Satna
+372,53,Female,Osteoarthritis,Radiation Therapy,11029,11,Yes,Stable,1,2015,Ratlam
+373,59,Female,Heart Disease,Physical Therapy and Pain Management,3314,6,Yes,Recovered,5,2021,Ujjain
+374,35,Male,Childbirth,Cast and Physical Therapy,13401,14,No,Stable,5,2019,Bhopal
+375,34,Male,Heart Disease,Physical Therapy and Pain Management,5947,6,No,Recovered,1,2020,Bhopal
+376,62,Female,Fractured Arm,CT Scan and Medication,8245,10,Yes,Stable,3,2021,Jabalpur
+377,25,Male,Kidney Stones,Radiation Therapy,29715,4,Yes,Stable,4,2021,Ujjain
+378,25,Male,Fractured Arm,Medication and Counseling,28454,5,No,Recovered,3,2019,Ujjain
+379,25,Female,Stroke,Physical Therapy and Pain Management,8547,2,No,Recovered,5,2021,Sagar
+380,86,Female,Heart Disease,Medication and Counseling,10982,11,Yes,Stable,3,2022,Indore
+381,48,Female,Appendicitis,Surgery and Chemotherapy,20381,1,Yes,Stable,2,2022,Dewas
+382,68,Female,Cancer,Physical Therapy and Pain Management,3562,4,Yes,Recovered,1,2015,Satna
+383,33,Female,Childbirth,Cast and Physical Therapy,13904,3,No,Recovered,2,2017,Bhopal
+384,66,Male,Fractured Arm,Lithotripsy,25669,4,Yes,Stable,1,2020,Indore
+385,46,Female,Hypertension,Physical Therapy and Pain Management,11170,6,Yes,Recovered,1,2015,Satna
+386,25,Female,Respiratory Infection,X-Ray and Splint,21837,13,Yes,Stable,3,2018,Ratlam
+387,81,Female,Childbirth,Medication and Counseling,4824,6,No,Recovered,1,2015,Rewa
+388,26,Female,Cancer,Surgery and Chemotherapy,4183,6,Yes,Recovered,2,2018,Indore
+389,76,Male,Heart Disease,Surgery and Chemotherapy,7679,5,Yes,Recovered,4,2022,Jabalpur
+390,60,Female,Fractured Arm,CT Scan and Medication,29388,10,Yes,Recovered,5,2020,Gwalior
+391,82,Male,Appendicitis,CT Scan and Medication,11179,2,No,Recovered,2,2017,Dewas
+392,71,Female,Osteoarthritis,Cardiac Catheterization,22896,11,No,Recovered,2,2020,Ratlam
+393,89,Female,Prostate Cancer,Antibiotics and Rest,13504,9,Yes,Stable,1,2017,Rewa
+394,79,Female,Heart Attack,Cardiac Catheterization,4363,9,No,Stable,1,2019,Ratlam
+395,70,Female,Kidney Stones,Antibiotics and Rest,2770,5,No,Stable,4,2017,Ujjain
+396,69,Male,Fractured Arm,Angioplasty,159,3,Yes,Stable,5,2020,Bhopal
+397,26,Male,Heart Attack,Insulin Therapy,16939,12,Yes,Stable,3,2022,Bhopal
+398,44,Female,Appendicitis,Appendectomy,21375,13,No,Stable,1,2017,Bhopal
+399,66,Male,Heart Attack,Antibiotics and Rest,22297,10,No,Recovered,1,2022,Bhopal
+400,47,Male,Fractured Arm,Medication and Counseling,29199,4,No,Stable,1,2018,Sagar
+401,55,Male,Stroke,Surgery and Chemotherapy,29087,4,No,Recovered,1,2019,Satna
+402,35,Male,Childbirth,CT Scan and Medication,20902,7,No,Stable,3,2018,Ratlam
+403,84,Female,Prostate Cancer,Cast and Physical Therapy,17719,11,Yes,Stable,2,2016,Sagar
+404,72,Male,Osteoarthritis,Lithotripsy,27999,9,Yes,Stable,4,2017,Satna
+405,48,Male,Fractured Leg,Epinephrine Injection,19335,4,Yes,Stable,3,2021,Ratlam
+406,60,Male,Fractured Leg,Epinephrine Injection,15554,14,No,Stable,3,2020,Indore
+407,50,Male,Appendicitis,Cardiac Catheterization,1315,6,Yes,Recovered,2,2018,Sagar
+408,53,Female,Kidney Stones,X-Ray and Splint,12948,4,No,Stable,1,2020,Dewas
+409,86,Male,Allergic Reaction,Surgery and Chemotherapy,15261,7,Yes,Recovered,5,2019,Jabalpur
+410,27,Male,Prostate Cancer,Antibiotics and Rest,8323,3,No,Recovered,2,2015,Jabalpur
+411,50,Male,Fractured Leg,Physical Therapy and Pain Management,3761,4,Yes,Recovered,5,2022,Indore
+412,45,Male,Osteoarthritis,Antibiotics and Rest,20617,4,Yes,Recovered,2,2022,Ujjain
+413,87,Male,Cancer,X-Ray and Splint,25237,4,No,Stable,4,2018,Dewas
+414,80,Female,Appendicitis,X-Ray and Splint,18205,7,No,Stable,4,2018,Ratlam
+415,69,Male,Appendicitis,CT Scan and Medication,2902,3,No,Recovered,2,2021,Sagar
+416,76,Female,Diabetes,Radiation Therapy,16542,6,Yes,Stable,2,2022,Ujjain
+417,88,Female,Prostate Cancer,Physical Therapy and Pain Management,2524,13,No,Stable,2,2021,Ratlam
+418,64,Male,Kidney Stones,Angioplasty,5880,8,No,Stable,4,2019,Ratlam
+419,61,Female,Heart Disease,Radiation Therapy,26445,11,No,Recovered,1,2017,Jabalpur
+420,64,Female,Childbirth,Insulin Therapy,18861,12,No,Recovered,3,2017,Bhopal
+421,21,Male,Hypertension,Medication and Counseling,19051,7,Yes,Stable,3,2018,Satna
+422,84,Female,Heart Attack,Cast and Physical Therapy,5206,11,Yes,Recovered,5,2015,Indore
+423,44,Male,Heart Disease,Lithotripsy,15322,11,No,Stable,3,2021,Indore
+424,58,Female,Prostate Cancer,Cast and Physical Therapy,17072,14,Yes,Recovered,1,2018,Dewas
+425,43,Female,Heart Attack,X-Ray and Splint,29905,3,No,Recovered,5,2016,Ratlam
+426,30,Female,Kidney Stones,Angioplasty,7681,7,No,Recovered,3,2019,Sagar
+427,46,Female,Stroke,CT Scan and Medication,24191,10,Yes,Stable,4,2022,Ujjain
+428,65,Male,Prostate Cancer,Lithotripsy,412,12,No,Recovered,5,2016,Satna
+429,50,Female,Prostate Cancer,Physical Therapy and Pain Management,1348,13,No,Recovered,3,2015,Ujjain
+430,62,Male,Osteoarthritis,Delivery and Postnatal Care,9089,7,Yes,Recovered,2,2018,Bhopal
+431,81,Male,Fractured Leg,CT Scan and Medication,8108,14,No,Stable,5,2021,Rewa
+432,76,Female,Heart Disease,Appendectomy,17957,2,Yes,Stable,5,2015,Satna
+433,63,Male,Diabetes,Medication and Counseling,25637,3,No,Recovered,1,2019,Ratlam
+434,53,Male,Heart Disease,Antibiotics and Rest,26788,8,Yes,Stable,5,2015,Jabalpur
+435,33,Male,Stroke,Antibiotics and Rest,4749,14,No,Recovered,3,2022,Rewa
+436,67,Male,Kidney Stones,Physical Therapy and Pain Management,27519,9,Yes,Stable,3,2018,Sagar
+437,49,Male,Childbirth,X-Ray and Splint,27584,3,Yes,Recovered,1,2017,Jabalpur
+438,61,Male,Diabetes,Epinephrine Injection,27295,1,No,Recovered,2,2022,Indore
+439,86,Female,Fractured Arm,Antibiotics and Rest,27957,7,No,Recovered,4,2015,Jabalpur
+440,34,Male,Osteoarthritis,Antibiotics and Rest,8678,2,Yes,Stable,5,2016,Ratlam
+441,45,Male,Childbirth,Radiation Therapy,11087,11,Yes,Stable,1,2020,Indore
+442,79,Female,Allergic Reaction,Antibiotics and Rest,6022,3,No,Stable,2,2022,Ratlam
+443,50,Male,Heart Attack,Cardiac Catheterization,14109,7,No,Recovered,3,2017,Indore
+444,72,Male,Osteoarthritis,Lithotripsy,9401,1,Yes,Stable,4,2017,Bhopal
+445,83,Male,Heart Disease,Insulin Therapy,566,14,Yes,Stable,3,2019,Bhopal
+446,56,Male,Stroke,Radiation Therapy,23615,3,Yes,Recovered,1,2017,Bhopal
+447,78,Male,Osteoarthritis,Medication and Counseling,26383,8,No,Recovered,4,2015,Dewas
+448,62,Female,Cancer,Lithotripsy,3142,12,Yes,Recovered,2,2015,Jabalpur
+449,77,Female,Prostate Cancer,Cast and Physical Therapy,108,13,No,Recovered,5,2020,Gwalior
+450,88,Female,Diabetes,Epinephrine Injection,10785,4,No,Recovered,3,2021,Satna
+451,65,Male,Fractured Arm,Medication and Counseling,3891,1,Yes,Recovered,5,2021,Bhopal
+452,24,Male,Prostate Cancer,Insulin Therapy,27308,7,No,Stable,1,2020,Dewas
+453,87,Female,Childbirth,Surgery and Chemotherapy,17529,13,Yes,Stable,5,2017,Rewa
+454,32,Female,Hypertension,Insulin Therapy,20666,6,No,Stable,4,2017,Dewas
+455,21,Female,Allergic Reaction,Insulin Therapy,3867,5,No,Stable,5,2015,Satna
+456,87,Male,Hypertension,Cast and Physical Therapy,13175,2,Yes,Stable,3,2018,Bhopal
+457,71,Male,Prostate Cancer,Delivery and Postnatal Care,18970,14,No,Recovered,1,2019,Gwalior
+458,63,Female,Appendicitis,Lithotripsy,18644,12,Yes,Stable,1,2015,Gwalior
+459,51,Female,Stroke,Delivery and Postnatal Care,1501,6,No,Stable,2,2018,Rewa
+460,45,Female,Appendicitis,Radiation Therapy,18263,2,Yes,Recovered,2,2018,Rewa
+461,22,Female,Kidney Stones,X-Ray and Splint,22574,10,No,Stable,1,2015,Bhopal
+462,64,Male,Hypertension,Epinephrine Injection,24741,14,Yes,Stable,4,2021,Rewa
+463,29,Female,Prostate Cancer,X-Ray and Splint,16733,7,No,Recovered,4,2016,Ratlam
+464,46,Male,Fractured Arm,Lithotripsy,23076,4,Yes,Recovered,4,2019,Sagar
+465,44,Male,Kidney Stones,Delivery and Postnatal Care,23662,12,Yes,Recovered,2,2016,Rewa
+466,54,Male,Diabetes,Lithotripsy,2809,7,No,Stable,4,2015,Satna
+467,32,Female,Respiratory Infection,X-Ray and Splint,29783,9,No,Stable,5,2017,Sagar
+468,54,Female,Fractured Leg,Surgery and Chemotherapy,19545,9,Yes,Recovered,2,2017,Satna
+469,49,Female,Prostate Cancer,Appendectomy,19295,10,Yes,Stable,3,2019,Bhopal
+470,32,Male,Osteoarthritis,Radiation Therapy,21424,6,Yes,Recovered,2,2019,Jabalpur
+471,50,Male,Diabetes,Antibiotics and Rest,29298,7,No,Stable,1,2021,Rewa
+472,20,Male,Fractured Leg,Angioplasty,16162,14,Yes,Stable,4,2020,Gwalior
+473,64,Male,Respiratory Infection,Lithotripsy,28911,12,No,Recovered,4,2019,Jabalpur
+474,44,Female,Hypertension,Physical Therapy and Pain Management,23043,10,No,Stable,1,2018,Ujjain
+475,46,Male,Kidney Stones,Radiation Therapy,18316,5,No,Recovered,4,2015,Ratlam
+476,76,Male,Osteoarthritis,Radiation Therapy,26825,2,No,Recovered,3,2020,Jabalpur
+477,87,Male,Heart Attack,Antibiotics and Rest,5615,3,No,Stable,3,2015,Sagar
+478,57,Female,Osteoarthritis,Delivery and Postnatal Care,11677,8,No,Recovered,4,2017,Indore
+479,46,Male,Heart Disease,Cast and Physical Therapy,9127,14,Yes,Stable,2,2015,Rewa
+480,57,Male,Childbirth,Cast and Physical Therapy,29316,12,No,Stable,2,2016,Bhopal
+481,57,Male,Kidney Stones,Angioplasty,26718,14,Yes,Stable,5,2021,Gwalior
+482,75,Female,Fractured Leg,Cast and Physical Therapy,12062,6,Yes,Recovered,5,2020,Ratlam
+483,68,Female,Childbirth,Appendectomy,19492,1,Yes,Recovered,5,2022,Indore
+484,78,Male,Stroke,Lithotripsy,29607,5,No,Stable,5,2015,Ratlam
+485,24,Male,Kidney Stones,Angioplasty,15877,10,Yes,Recovered,4,2019,Dewas
+486,24,Male,Appendicitis,Appendectomy,21846,8,Yes,Recovered,4,2016,Indore
+487,41,Male,Childbirth,Delivery and Postnatal Care,25116,9,Yes,Recovered,2,2019,Bhopal
+488,42,Female,Osteoarthritis,Antibiotics and Rest,25257,6,Yes,Stable,4,2022,Gwalior
+489,77,Female,Kidney Stones,Cardiac Catheterization,8006,8,Yes,Recovered,4,2017,Dewas
+490,39,Male,Appendicitis,Medication and Counseling,2866,10,No,Recovered,3,2021,Bhopal
+491,56,Female,Childbirth,Antibiotics and Rest,18102,1,No,Recovered,4,2015,Gwalior
+492,25,Female,Childbirth,Antibiotics and Rest,1489,7,Yes,Stable,4,2015,Sagar
+493,83,Female,Heart Disease,Surgery and Chemotherapy,20946,12,No,Recovered,2,2016,Ujjain
+494,56,Female,Kidney Stones,CT Scan and Medication,11483,5,Yes,Recovered,5,2021,Dewas
+495,73,Female,Childbirth,Physical Therapy and Pain Management,6453,10,No,Recovered,5,2021,Jabalpur
+496,88,Female,Fractured Arm,Surgery and Chemotherapy,7566,7,No,Stable,2,2018,Ujjain
+497,30,Male,Cancer,X-Ray and Splint,5745,9,No,Stable,1,2018,Bhopal
+498,54,Male,Cancer,Insulin Therapy,22887,4,No,Recovered,1,2020,Indore
+499,87,Male,Kidney Stones,Insulin Therapy,23311,6,No,Recovered,3,2019,Satna
+500,52,Female,Kidney Stones,Physical Therapy and Pain Management,4147,6,No,Stable,1,2015,Ratlam
+501,27,Male,Respiratory Infection,Lithotripsy,6872,10,Yes,Recovered,4,2015,Dewas
+502,21,Male,Fractured Leg,Angioplasty,7820,13,Yes,Recovered,5,2020,Rewa
+503,83,Male,Diabetes,Cardiac Catheterization,28214,13,Yes,Stable,1,2022,Gwalior
+504,81,Female,Allergic Reaction,Appendectomy,20974,1,Yes,Recovered,2,2015,Bhopal
+505,60,Male,Heart Disease,Surgery and Chemotherapy,18980,5,Yes,Recovered,1,2020,Sagar
+506,70,Female,Fractured Arm,Surgery and Chemotherapy,23225,2,No,Recovered,3,2017,Ratlam
+507,50,Female,Fractured Arm,Medication and Counseling,2891,8,No,Recovered,2,2020,Rewa
+508,78,Male,Appendicitis,Antibiotics and Rest,29147,13,No,Recovered,2,2018,Ujjain
+509,49,Male,Respiratory Infection,Cast and Physical Therapy,22264,2,No,Stable,2,2018,Jabalpur
+510,22,Female,Allergic Reaction,Surgery and Chemotherapy,22642,5,Yes,Recovered,2,2015,Rewa
+511,64,Female,Hypertension,Epinephrine Injection,25517,13,Yes,Stable,4,2019,Dewas
+512,50,Female,Respiratory Infection,X-Ray and Splint,808,13,Yes,Stable,1,2020,Bhopal
+513,54,Male,Osteoarthritis,Appendectomy,26602,9,No,Stable,3,2022,Satna
+514,69,Male,Childbirth,Epinephrine Injection,17486,3,Yes,Recovered,1,2022,Satna
+515,74,Male,Heart Disease,Delivery and Postnatal Care,1117,13,No,Stable,5,2018,Jabalpur
+516,54,Male,Osteoarthritis,Epinephrine Injection,19576,12,No,Stable,5,2022,Bhopal
+517,34,Male,Respiratory Infection,Appendectomy,5008,1,No,Recovered,4,2019,Ujjain
+518,56,Male,Prostate Cancer,Antibiotics and Rest,18004,11,No,Stable,1,2016,Ratlam
+519,83,Female,Kidney Stones,Appendectomy,3849,6,Yes,Recovered,4,2018,Ratlam
+520,40,Male,Stroke,Radiation Therapy,16242,4,Yes,Stable,5,2022,Rewa
+521,81,Male,Appendicitis,Antibiotics and Rest,17889,11,Yes,Stable,3,2018,Rewa
+522,71,Male,Diabetes,Antibiotics and Rest,19351,5,No,Recovered,1,2022,Jabalpur
+523,68,Female,Fractured Arm,Cardiac Catheterization,28805,7,Yes,Recovered,3,2021,Rewa
+524,30,Male,Fractured Leg,Antibiotics and Rest,7430,1,Yes,Recovered,4,2022,Indore
+525,59,Male,Appendicitis,Delivery and Postnatal Care,29104,10,No,Recovered,5,2016,Ratlam
+526,28,Male,Childbirth,X-Ray and Splint,1673,10,No,Recovered,3,2016,Ujjain
+527,22,Male,Respiratory Infection,Antibiotics and Rest,3068,13,Yes,Stable,1,2021,Bhopal
+528,39,Male,Fractured Arm,Delivery and Postnatal Care,17467,7,No,Stable,4,2018,Satna
+529,60,Male,Prostate Cancer,Radiation Therapy,23188,10,Yes,Recovered,4,2022,Sagar
+530,54,Male,Heart Attack,Antibiotics and Rest,21945,6,No,Recovered,4,2019,Dewas
+531,33,Female,Kidney Stones,Delivery and Postnatal Care,2316,12,Yes,Recovered,4,2021,Bhopal
+532,33,Female,Stroke,Antibiotics and Rest,24157,7,No,Recovered,4,2018,Ratlam
+533,34,Female,Prostate Cancer,Lithotripsy,11819,14,Yes,Stable,3,2021,Bhopal
+534,83,Male,Appendicitis,Radiation Therapy,17304,2,Yes,Stable,5,2018,Jabalpur
+535,45,Male,Prostate Cancer,Angioplasty,4684,7,Yes,Recovered,1,2016,Bhopal
+536,56,Male,Allergic Reaction,Radiation Therapy,20463,7,Yes,Recovered,4,2018,Jabalpur
+537,54,Female,Kidney Stones,X-Ray and Splint,15144,7,Yes,Recovered,1,2021,Ujjain
+538,37,Female,Fractured Leg,Lithotripsy,13883,12,Yes,Recovered,4,2019,Jabalpur
+539,22,Male,Kidney Stones,X-Ray and Splint,12083,3,No,Stable,2,2015,Jabalpur
+540,45,Female,Allergic Reaction,Angioplasty,3358,3,Yes,Stable,5,2016,Ratlam
+541,41,Female,Fractured Arm,Surgery and Chemotherapy,23382,6,Yes,Stable,1,2022,Satna
+542,72,Male,Prostate Cancer,Surgery and Chemotherapy,8555,3,Yes,Recovered,5,2017,Sagar
+543,74,Female,Respiratory Infection,Epinephrine Injection,27939,11,Yes,Stable,1,2021,Dewas
+544,52,Male,Childbirth,Epinephrine Injection,26357,9,Yes,Stable,1,2022,Satna
+545,76,Female,Respiratory Infection,Angioplasty,8019,5,No,Stable,3,2017,Rewa
+546,39,Male,Fractured Leg,Insulin Therapy,5516,12,No,Recovered,5,2020,Dewas
+547,59,Male,Heart Attack,Lithotripsy,13610,12,No,Recovered,5,2020,Jabalpur
+548,89,Male,Respiratory Infection,CT Scan and Medication,29107,13,No,Recovered,5,2016,Bhopal
+549,87,Female,Stroke,Surgery and Chemotherapy,19162,7,Yes,Recovered,5,2015,Gwalior
+550,31,Female,Diabetes,CT Scan and Medication,18573,8,No,Stable,5,2018,Jabalpur
+551,21,Male,Heart Attack,X-Ray and Splint,23007,8,No,Stable,1,2021,Ujjain
+552,32,Male,Childbirth,Insulin Therapy,4947,9,Yes,Stable,3,2017,Sagar
+553,49,Male,Kidney Stones,Appendectomy,2764,2,Yes,Recovered,4,2022,Gwalior
+554,72,Male,Diabetes,Insulin Therapy,25771,4,No,Stable,3,2019,Jabalpur
+555,23,Male,Stroke,Angioplasty,25728,3,Yes,Stable,4,2022,Jabalpur
+556,40,Male,Hypertension,Lithotripsy,27370,6,No,Recovered,4,2021,Bhopal
+557,39,Male,Prostate Cancer,Cardiac Catheterization,17313,5,No,Recovered,4,2015,Indore
+558,52,Female,Allergic Reaction,Lithotripsy,7035,11,No,Recovered,2,2020,Satna
+559,29,Male,Childbirth,Delivery and Postnatal Care,13873,1,Yes,Recovered,4,2018,Ratlam
+560,63,Female,Childbirth,Appendectomy,2916,1,Yes,Recovered,2,2015,Rewa
+561,69,Female,Cancer,Lithotripsy,14269,2,Yes,Recovered,3,2016,Gwalior
+562,45,Male,Diabetes,Physical Therapy and Pain Management,2651,3,Yes,Stable,4,2020,Bhopal
+563,79,Female,Heart Attack,Antibiotics and Rest,17943,6,No,Recovered,2,2015,Ujjain
+564,68,Female,Heart Disease,Cast and Physical Therapy,16284,12,No,Stable,5,2020,Ratlam
+565,64,Male,Childbirth,Cast and Physical Therapy,3246,13,Yes,Recovered,5,2018,Gwalior
+566,48,Female,Diabetes,Epinephrine Injection,2632,9,Yes,Recovered,2,2018,Sagar
+567,51,Female,Allergic Reaction,Cardiac Catheterization,5561,11,Yes,Stable,3,2016,Gwalior
+568,31,Female,Fractured Leg,Delivery and Postnatal Care,16345,9,No,Stable,2,2020,Ratlam
+569,87,Male,Diabetes,Epinephrine Injection,27979,5,No,Stable,4,2016,Ujjain
+570,49,Male,Heart Attack,Radiation Therapy,13512,12,No,Recovered,3,2017,Indore
+571,79,Male,Heart Attack,Cast and Physical Therapy,5021,2,Yes,Recovered,3,2022,Bhopal
+572,71,Male,Hypertension,Delivery and Postnatal Care,14015,4,No,Recovered,5,2017,Dewas
+573,21,Female,Kidney Stones,Antibiotics and Rest,4217,1,Yes,Stable,5,2019,Jabalpur
+574,47,Male,Cancer,X-Ray and Splint,1346,1,No,Recovered,1,2015,Bhopal
+575,82,Female,Appendicitis,CT Scan and Medication,6160,3,Yes,Recovered,1,2021,Dewas
+576,72,Male,Osteoarthritis,Physical Therapy and Pain Management,7355,4,No,Recovered,3,2019,Ratlam
+577,79,Female,Cancer,Appendectomy,3537,5,Yes,Recovered,4,2017,Gwalior
+578,63,Female,Fractured Leg,Surgery and Chemotherapy,9078,2,Yes,Stable,5,2022,Indore
+579,81,Male,Fractured Leg,Physical Therapy and Pain Management,4415,9,Yes,Recovered,4,2021,Satna
+580,67,Female,Heart Disease,Lithotripsy,12398,9,No,Stable,4,2019,Jabalpur
+581,73,Female,Respiratory Infection,Appendectomy,1386,13,No,Stable,3,2020,Satna
+582,27,Male,Fractured Leg,Appendectomy,13478,3,No,Stable,4,2015,Rewa
+583,26,Male,Osteoarthritis,X-Ray and Splint,8535,12,No,Stable,1,2016,Rewa
+584,78,Female,Fractured Arm,X-Ray and Splint,654,4,Yes,Recovered,5,2015,Sagar
+585,55,Male,Childbirth,Medication and Counseling,25779,12,Yes,Recovered,4,2022,Bhopal
+586,83,Female,Heart Attack,Cast and Physical Therapy,5381,7,Yes,Stable,4,2020,Indore
+587,50,Female,Allergic Reaction,Radiation Therapy,20218,9,No,Stable,4,2022,Dewas
+588,27,Female,Childbirth,Cast and Physical Therapy,19760,5,No,Recovered,1,2022,Indore
+589,63,Female,Appendicitis,Lithotripsy,25534,7,Yes,Recovered,2,2017,Sagar
+590,44,Male,Cancer,Lithotripsy,12296,1,No,Stable,5,2018,Bhopal
+591,28,Male,Fractured Leg,Radiation Therapy,1921,13,No,Stable,1,2016,Jabalpur
+592,65,Female,Cancer,Delivery and Postnatal Care,213,6,Yes,Recovered,1,2020,Dewas
+593,85,Male,Stroke,Epinephrine Injection,22543,3,No,Recovered,4,2019,Ratlam
+594,66,Male,Appendicitis,Appendectomy,11033,14,No,Recovered,2,2016,Bhopal
+595,26,Male,Diabetes,Delivery and Postnatal Care,9136,9,Yes,Recovered,1,2016,Rewa
+596,22,Male,Allergic Reaction,Cast and Physical Therapy,28958,11,Yes,Stable,3,2022,Ratlam
+597,63,Male,Prostate Cancer,Radiation Therapy,11384,8,Yes,Stable,1,2016,Indore
+598,30,Male,Fractured Leg,Physical Therapy and Pain Management,294,3,No,Recovered,2,2020,Ratlam
+599,77,Male,Stroke,Epinephrine Injection,3705,2,No,Stable,4,2022,Dewas
+600,39,Female,Hypertension,Appendectomy,17914,10,No,Recovered,2,2016,Sagar
+601,58,Female,Respiratory Infection,Antibiotics and Rest,19585,7,Yes,Recovered,1,2022,Sagar
+602,34,Male,Heart Disease,Physical Therapy and Pain Management,21781,9,Yes,Recovered,5,2018,Sagar
+603,60,Female,Hypertension,Cardiac Catheterization,10540,10,Yes,Stable,2,2015,Gwalior
+604,82,Female,Respiratory Infection,Insulin Therapy,16100,14,No,Recovered,2,2015,Ratlam
+605,21,Female,Prostate Cancer,Insulin Therapy,22282,3,No,Stable,3,2019,Jabalpur
+606,87,Female,Heart Attack,Epinephrine Injection,25047,7,Yes,Recovered,3,2021,Ratlam
+607,28,Female,Respiratory Infection,Antibiotics and Rest,23500,5,No,Stable,5,2022,Dewas
+608,79,Female,Osteoarthritis,X-Ray and Splint,21631,9,No,Recovered,4,2015,Indore
+609,50,Female,Kidney Stones,Angioplasty,21920,1,No,Stable,5,2015,Bhopal
+610,51,Male,Kidney Stones,Insulin Therapy,1168,14,Yes,Stable,1,2016,Bhopal
+611,60,Female,Cancer,CT Scan and Medication,9535,9,No,Recovered,1,2022,Dewas
+612,89,Male,Respiratory Infection,Cast and Physical Therapy,8674,9,Yes,Recovered,1,2018,Sagar
+613,88,Female,Respiratory Infection,Radiation Therapy,3030,13,Yes,Stable,5,2017,Jabalpur
+614,83,Female,Osteoarthritis,Surgery and Chemotherapy,16592,3,Yes,Stable,3,2020,Jabalpur
+615,61,Female,Hypertension,Radiation Therapy,9310,12,No,Stable,5,2016,Jabalpur
+616,67,Male,Fractured Leg,Lithotripsy,13804,9,Yes,Stable,5,2020,Ratlam
+617,70,Female,Heart Disease,Antibiotics and Rest,19813,1,Yes,Recovered,2,2018,Sagar
+618,40,Male,Cancer,Delivery and Postnatal Care,27718,3,No,Recovered,2,2021,Satna
+619,68,Female,Kidney Stones,Insulin Therapy,17397,8,No,Recovered,5,2015,Sagar
+620,32,Female,Hypertension,Appendectomy,23172,8,No,Recovered,4,2016,Bhopal
+621,78,Female,Heart Disease,Appendectomy,1028,4,No,Recovered,3,2019,Satna
+622,68,Male,Hypertension,Epinephrine Injection,16542,10,Yes,Recovered,5,2015,Sagar
+623,88,Female,Diabetes,Cardiac Catheterization,3363,14,No,Stable,2,2018,Rewa
+624,52,Male,Childbirth,Physical Therapy and Pain Management,18084,4,Yes,Stable,4,2017,Rewa
+625,81,Male,Heart Attack,Appendectomy,26719,5,Yes,Recovered,3,2022,Indore
+626,51,Female,Prostate Cancer,Epinephrine Injection,26740,5,Yes,Recovered,2,2020,Jabalpur
+627,25,Male,Fractured Leg,CT Scan and Medication,23617,5,No,Recovered,3,2019,Dewas
+628,50,Female,Heart Disease,Physical Therapy and Pain Management,7595,8,Yes,Stable,2,2019,Satna
+629,65,Female,Allergic Reaction,Cardiac Catheterization,646,7,Yes,Recovered,3,2021,Ujjain
+630,84,Male,Prostate Cancer,Radiation Therapy,15051,7,Yes,Stable,4,2022,Ratlam
+631,43,Male,Fractured Arm,Appendectomy,19202,11,Yes,Stable,4,2018,Ujjain
+632,85,Female,Appendicitis,X-Ray and Splint,14842,1,Yes,Recovered,1,2022,Ratlam
+633,25,Male,Prostate Cancer,Appendectomy,4186,11,No,Recovered,2,2018,Bhopal
+634,59,Male,Diabetes,Insulin Therapy,16999,1,Yes,Stable,2,2015,Dewas
+635,54,Male,Hypertension,Medication and Counseling,4279,2,No,Stable,4,2020,Dewas
+636,34,Female,Prostate Cancer,Radiation Therapy,1521,4,No,Recovered,3,2015,Rewa
+637,32,Female,Childbirth,Lithotripsy,18509,9,No,Recovered,4,2020,Dewas
+638,81,Female,Childbirth,Antibiotics and Rest,29934,7,Yes,Stable,1,2017,Sagar
+639,56,Female,Osteoarthritis,Appendectomy,15755,5,No,Stable,1,2017,Rewa
+640,36,Male,Heart Attack,Insulin Therapy,29972,13,Yes,Recovered,5,2015,Jabalpur
+641,71,Male,Childbirth,Physical Therapy and Pain Management,14147,1,Yes,Stable,3,2016,Ujjain
+642,57,Female,Respiratory Infection,Radiation Therapy,7079,7,Yes,Stable,2,2022,Gwalior
+643,25,Female,Heart Disease,X-Ray and Splint,17240,10,No,Recovered,3,2021,Indore
+644,84,Female,Fractured Arm,Surgery and Chemotherapy,20177,13,No,Recovered,5,2019,Satna
+645,37,Male,Appendicitis,Angioplasty,19129,4,Yes,Recovered,1,2017,Dewas
+646,39,Male,Fractured Leg,Delivery and Postnatal Care,20571,8,Yes,Recovered,1,2018,Bhopal
+647,24,Female,Stroke,Antibiotics and Rest,23396,9,No,Recovered,5,2020,Rewa
+648,46,Female,Kidney Stones,Radiation Therapy,20775,1,Yes,Recovered,2,2016,Indore
+649,79,Female,Heart Attack,Lithotripsy,2051,1,Yes,Recovered,3,2016,Satna
+650,32,Female,Osteoarthritis,Appendectomy,23726,13,No,Stable,3,2017,Bhopal
+651,71,Female,Fractured Leg,Antibiotics and Rest,27010,13,Yes,Stable,2,2022,Indore
+652,21,Male,Cancer,Lithotripsy,9566,14,Yes,Recovered,2,2021,Gwalior
+653,32,Male,Heart Attack,Angioplasty,20706,11,Yes,Stable,4,2020,Gwalior
+654,54,Female,Cancer,Cardiac Catheterization,22882,9,No,Recovered,2,2016,Ujjain
+655,21,Female,Osteoarthritis,Physical Therapy and Pain Management,27286,4,No,Recovered,1,2015,Bhopal
+656,58,Male,Childbirth,Angioplasty,17495,12,No,Stable,5,2022,Ujjain
+657,85,Female,Fractured Leg,Delivery and Postnatal Care,18688,14,No,Stable,5,2022,Jabalpur
+658,71,Female,Allergic Reaction,Radiation Therapy,15183,2,Yes,Stable,1,2016,Bhopal
+659,33,Female,Respiratory Infection,Angioplasty,15084,14,No,Stable,5,2015,Dewas
+660,33,Female,Hypertension,Physical Therapy and Pain Management,29435,9,Yes,Stable,3,2020,Ratlam
+661,25,Male,Cancer,Epinephrine Injection,14108,11,Yes,Stable,2,2021,Gwalior
+662,25,Male,Childbirth,Radiation Therapy,240,6,Yes,Recovered,3,2018,Dewas
+663,77,Female,Osteoarthritis,Lithotripsy,11234,12,Yes,Stable,5,2018,Gwalior
+664,73,Male,Kidney Stones,Cardiac Catheterization,3455,2,No,Recovered,2,2015,Dewas
+665,65,Female,Kidney Stones,Antibiotics and Rest,13300,6,Yes,Recovered,1,2020,Ratlam
+666,41,Male,Heart Disease,X-Ray and Splint,20580,7,Yes,Stable,4,2016,Jabalpur
+667,24,Male,Appendicitis,Delivery and Postnatal Care,18346,12,Yes,Recovered,2,2018,Rewa
+668,87,Male,Prostate Cancer,Medication and Counseling,13939,11,No,Stable,1,2020,Ratlam
+669,80,Male,Stroke,Epinephrine Injection,20950,7,No,Stable,1,2018,Jabalpur
+670,46,Male,Kidney Stones,Lithotripsy,4465,8,No,Stable,5,2017,Dewas
+671,56,Female,Allergic Reaction,Physical Therapy and Pain Management,24910,14,No,Stable,4,2019,Ratlam
+672,37,Male,Respiratory Infection,Insulin Therapy,4540,1,Yes,Stable,4,2018,Bhopal
+673,63,Female,Childbirth,Insulin Therapy,27459,7,Yes,Stable,2,2019,Indore
+674,55,Female,Appendicitis,Lithotripsy,28472,5,Yes,Stable,4,2022,Indore
+675,72,Female,Respiratory Infection,Surgery and Chemotherapy,26725,4,Yes,Stable,1,2022,Ujjain
+676,28,Female,Prostate Cancer,Surgery and Chemotherapy,28804,8,No,Stable,2,2022,Jabalpur
+677,54,Female,Cancer,Angioplasty,11809,3,Yes,Recovered,3,2020,Dewas
+678,40,Male,Osteoarthritis,Lithotripsy,7550,1,Yes,Recovered,3,2019,Sagar
+679,61,Male,Diabetes,Physical Therapy and Pain Management,3592,6,Yes,Stable,5,2017,Bhopal
+680,80,Female,Fractured Arm,Epinephrine Injection,25107,9,No,Stable,3,2017,Ratlam
+681,61,Female,Stroke,X-Ray and Splint,27829,2,Yes,Recovered,3,2022,Bhopal
+682,88,Female,Hypertension,Cast and Physical Therapy,16220,12,No,Stable,2,2020,Rewa
+683,86,Male,Childbirth,Insulin Therapy,27157,6,Yes,Recovered,2,2015,Rewa
+684,34,Female,Diabetes,Cast and Physical Therapy,150,10,Yes,Stable,5,2016,Ujjain
+685,60,Female,Fractured Arm,Appendectomy,1822,2,No,Recovered,4,2021,Sagar
+686,34,Male,Appendicitis,Insulin Therapy,26453,14,Yes,Stable,4,2016,Bhopal
+687,41,Male,Osteoarthritis,Radiation Therapy,19259,2,No,Stable,2,2016,Ratlam
+688,42,Female,Cancer,Appendectomy,23768,2,No,Recovered,5,2018,Dewas
+689,22,Male,Fractured Leg,Radiation Therapy,1300,1,No,Recovered,1,2019,Indore
+690,63,Female,Appendicitis,Physical Therapy and Pain Management,26639,13,Yes,Stable,3,2022,Bhopal
+691,50,Female,Allergic Reaction,Medication and Counseling,8422,1,Yes,Recovered,3,2015,Indore
+692,68,Male,Diabetes,Epinephrine Injection,16006,1,No,Recovered,1,2018,Rewa
+693,48,Female,Heart Disease,Epinephrine Injection,745,11,Yes,Stable,1,2022,Ujjain
+694,51,Female,Appendicitis,Epinephrine Injection,25379,11,Yes,Recovered,5,2016,Ratlam
+695,43,Female,Stroke,Insulin Therapy,7369,13,Yes,Stable,3,2016,Sagar
+696,66,Female,Kidney Stones,Lithotripsy,7042,1,No,Stable,1,2019,Jabalpur
+697,61,Female,Cancer,Epinephrine Injection,16115,14,Yes,Recovered,3,2021,Satna
+698,33,Female,Prostate Cancer,Antibiotics and Rest,23722,14,Yes,Stable,5,2022,Ujjain
+699,45,Male,Diabetes,X-Ray and Splint,2953,14,Yes,Stable,2,2021,Rewa
+700,22,Male,Fractured Leg,Angioplasty,12898,2,Yes,Recovered,5,2018,Jabalpur
+701,25,Female,Allergic Reaction,Angioplasty,26345,8,No,Stable,2,2022,Rewa
+702,43,Female,Osteoarthritis,Cardiac Catheterization,20352,13,No,Recovered,2,2022,Ratlam
+703,35,Male,Kidney Stones,Physical Therapy and Pain Management,26278,5,Yes,Recovered,2,2015,Bhopal
+704,70,Female,Kidney Stones,Medication and Counseling,29091,14,Yes,Recovered,3,2020,Gwalior
+705,50,Female,Appendicitis,Radiation Therapy,474,9,No,Recovered,4,2016,Gwalior
+706,67,Female,Heart Attack,Cast and Physical Therapy,10422,2,Yes,Recovered,3,2018,Indore
+707,20,Male,Heart Disease,Epinephrine Injection,8615,9,Yes,Stable,1,2020,Rewa
+708,57,Female,Childbirth,Cast and Physical Therapy,1605,2,Yes,Recovered,5,2021,Dewas
+709,37,Female,Heart Attack,X-Ray and Splint,19894,9,No,Recovered,4,2016,Dewas
+710,59,Male,Heart Disease,Lithotripsy,17297,1,No,Recovered,2,2019,Sagar
+711,73,Female,Fractured Arm,X-Ray and Splint,1226,8,No,Recovered,3,2017,Bhopal
+712,86,Female,Allergic Reaction,Medication and Counseling,1298,4,No,Recovered,5,2015,Satna
+713,22,Male,Osteoarthritis,Radiation Therapy,23282,9,Yes,Stable,3,2022,Satna
+714,84,Female,Stroke,Angioplasty,11968,9,No,Recovered,2,2015,Sagar
+715,34,Male,Fractured Leg,Physical Therapy and Pain Management,27198,12,No,Recovered,2,2019,Ratlam
+716,86,Male,Childbirth,Physical Therapy and Pain Management,7389,14,No,Stable,1,2015,Indore
+717,59,Female,Osteoarthritis,Insulin Therapy,26749,1,Yes,Recovered,2,2018,Bhopal
+718,80,Female,Fractured Arm,Lithotripsy,4927,13,Yes,Recovered,1,2022,Ujjain
+719,74,Male,Stroke,Medication and Counseling,13051,5,Yes,Stable,3,2019,Rewa
+720,26,Male,Childbirth,Appendectomy,29550,1,Yes,Recovered,4,2021,Jabalpur
+721,22,Female,Stroke,Epinephrine Injection,24191,10,No,Stable,5,2018,Indore
+722,53,Male,Appendicitis,X-Ray and Splint,17712,2,Yes,Stable,3,2015,Bhopal
+723,25,Male,Hypertension,X-Ray and Splint,25400,9,Yes,Stable,3,2022,Satna
+724,84,Male,Prostate Cancer,Antibiotics and Rest,22059,3,Yes,Stable,5,2022,Dewas
+725,47,Female,Cancer,Lithotripsy,23279,2,Yes,Recovered,5,2015,Dewas
+726,42,Male,Kidney Stones,Epinephrine Injection,5535,9,No,Stable,4,2020,Bhopal
+727,62,Female,Stroke,Angioplasty,1621,6,No,Recovered,4,2015,Satna
+728,56,Male,Childbirth,Cardiac Catheterization,4700,3,No,Stable,3,2015,Sagar
+729,24,Male,Osteoarthritis,Antibiotics and Rest,25103,2,Yes,Recovered,3,2018,Bhopal
+730,27,Male,Appendicitis,X-Ray and Splint,28646,12,No,Recovered,5,2022,Sagar
+731,64,Male,Hypertension,Surgery and Chemotherapy,18079,12,No,Stable,2,2020,Jabalpur
+732,54,Male,Respiratory Infection,Radiation Therapy,25154,14,Yes,Recovered,2,2020,Ujjain
+733,30,Male,Stroke,Cardiac Catheterization,18045,7,No,Stable,1,2017,Sagar
+734,37,Male,Kidney Stones,Appendectomy,1690,13,Yes,Recovered,5,2022,Indore
+735,20,Female,Childbirth,Cast and Physical Therapy,29111,9,Yes,Stable,2,2019,Satna
+736,84,Female,Childbirth,Surgery and Chemotherapy,22815,13,No,Stable,1,2022,Bhopal
+737,43,Female,Diabetes,Physical Therapy and Pain Management,20938,6,Yes,Stable,2,2019,Dewas
+738,84,Female,Heart Disease,Medication and Counseling,11316,3,No,Stable,1,2021,Gwalior
+739,27,Male,Heart Disease,Radiation Therapy,12200,9,No,Recovered,4,2022,Ratlam
+740,51,Male,Hypertension,Surgery and Chemotherapy,28445,14,Yes,Recovered,4,2021,Rewa
+741,33,Female,Childbirth,Surgery and Chemotherapy,28887,1,Yes,Recovered,1,2019,Jabalpur
+742,50,Male,Cancer,Medication and Counseling,8515,2,No,Stable,4,2022,Indore
+743,25,Female,Cancer,Angioplasty,8554,14,No,Recovered,4,2015,Ujjain
+744,65,Female,Prostate Cancer,X-Ray and Splint,13192,1,Yes,Stable,5,2022,Rewa
+745,55,Female,Cancer,Epinephrine Injection,19580,1,Yes,Stable,4,2017,Sagar
+746,20,Male,Cancer,Cardiac Catheterization,10314,3,Yes,Stable,1,2018,Rewa
+747,81,Male,Osteoarthritis,Cast and Physical Therapy,17548,7,No,Recovered,3,2017,Ratlam
+748,35,Female,Cancer,Cardiac Catheterization,14024,2,Yes,Recovered,5,2015,Ratlam
+749,39,Female,Prostate Cancer,Medication and Counseling,23851,14,Yes,Recovered,2,2016,Rewa
+750,25,Male,Stroke,Lithotripsy,11817,11,No,Recovered,4,2016,Gwalior
+751,23,Male,Fractured Arm,Medication and Counseling,7951,1,No,Stable,5,2022,Indore
+752,81,Female,Hypertension,Appendectomy,2717,4,No,Stable,3,2017,Ratlam
+753,75,Male,Allergic Reaction,Surgery and Chemotherapy,2237,1,Yes,Recovered,1,2015,Rewa
+754,46,Female,Prostate Cancer,Physical Therapy and Pain Management,2723,7,No,Recovered,4,2018,Rewa
+755,55,Female,Stroke,Delivery and Postnatal Care,1823,1,Yes,Recovered,4,2015,Sagar
+756,38,Male,Heart Disease,Cast and Physical Therapy,4758,6,Yes,Recovered,5,2022,Gwalior
+757,30,Female,Allergic Reaction,Medication and Counseling,16007,5,Yes,Stable,2,2021,Jabalpur
+758,80,Female,Kidney Stones,X-Ray and Splint,11254,7,Yes,Recovered,4,2021,Dewas
+759,78,Male,Allergic Reaction,X-Ray and Splint,22616,14,No,Stable,1,2022,Jabalpur
+760,86,Female,Respiratory Infection,Delivery and Postnatal Care,28498,8,No,Stable,2,2015,Sagar
+761,87,Female,Allergic Reaction,CT Scan and Medication,12749,2,No,Recovered,4,2015,Rewa
+762,81,Female,Diabetes,Physical Therapy and Pain Management,9725,7,Yes,Stable,2,2020,Bhopal
+763,23,Male,Fractured Leg,Lithotripsy,27235,7,No,Recovered,1,2015,Sagar
+764,32,Male,Respiratory Infection,X-Ray and Splint,10769,9,No,Stable,4,2022,Ratlam
+765,53,Female,Appendicitis,Medication and Counseling,11546,12,No,Recovered,4,2016,Bhopal
+766,34,Female,Fractured Arm,Physical Therapy and Pain Management,12065,7,Yes,Stable,3,2021,Sagar
+767,44,Male,Fractured Arm,Radiation Therapy,935,7,No,Stable,3,2020,Bhopal
+768,63,Male,Fractured Leg,Physical Therapy and Pain Management,17168,14,No,Stable,1,2016,Satna
+769,25,Male,Kidney Stones,Cardiac Catheterization,17391,8,No,Stable,4,2016,Gwalior
+770,20,Male,Prostate Cancer,Physical Therapy and Pain Management,7922,13,No,Recovered,2,2020,Ujjain
+771,67,Male,Osteoarthritis,Lithotripsy,9930,10,Yes,Stable,3,2019,Bhopal
+772,49,Female,Cancer,Surgery and Chemotherapy,3148,4,Yes,Stable,5,2020,Gwalior
+773,73,Female,Fractured Leg,Medication and Counseling,10115,13,Yes,Recovered,4,2017,Jabalpur
+774,23,Female,Fractured Arm,Epinephrine Injection,11542,12,No,Recovered,1,2018,Sagar
+775,36,Male,Hypertension,Antibiotics and Rest,12524,2,Yes,Recovered,5,2021,Satna
+776,55,Male,Hypertension,Cast and Physical Therapy,16582,1,No,Recovered,4,2021,Jabalpur
+777,58,Male,Fractured Leg,Lithotripsy,12335,4,Yes,Stable,4,2020,Bhopal
+778,33,Male,Cancer,Cast and Physical Therapy,15300,6,Yes,Recovered,1,2020,Ratlam
+779,33,Male,Heart Attack,Delivery and Postnatal Care,9568,5,Yes,Stable,3,2015,Indore
+780,68,Female,Fractured Leg,Physical Therapy and Pain Management,12463,7,No,Recovered,5,2016,Dewas
+781,85,Male,Prostate Cancer,Physical Therapy and Pain Management,12697,8,No,Recovered,2,2015,Indore
+782,44,Male,Appendicitis,Angioplasty,8851,12,No,Stable,2,2018,Jabalpur
+783,89,Female,Fractured Leg,Radiation Therapy,10333,5,Yes,Stable,5,2022,Satna
+784,31,Male,Heart Disease,Medication and Counseling,4281,12,No,Recovered,3,2017,Ujjain
+785,65,Male,Heart Disease,Epinephrine Injection,25046,8,No,Stable,1,2021,Dewas
+786,49,Male,Kidney Stones,Appendectomy,3479,3,No,Stable,4,2016,Bhopal
+787,40,Female,Childbirth,Insulin Therapy,2220,13,No,Stable,1,2016,Ratlam
+788,57,Male,Osteoarthritis,Insulin Therapy,8261,1,No,Stable,1,2016,Ratlam
+789,82,Male,Cancer,Insulin Therapy,267,11,No,Stable,5,2015,Ujjain
+790,32,Female,Appendicitis,Appendectomy,13127,2,No,Recovered,4,2017,Satna
+791,43,Female,Childbirth,CT Scan and Medication,27559,2,Yes,Recovered,2,2019,Dewas
+792,32,Female,Hypertension,Epinephrine Injection,3250,11,No,Stable,2,2015,Bhopal
+793,24,Male,Childbirth,Cardiac Catheterization,26422,9,No,Recovered,4,2018,Satna
+794,63,Female,Kidney Stones,Lithotripsy,16354,8,No,Recovered,5,2016,Ratlam
+795,33,Male,Stroke,Medication and Counseling,10155,11,Yes,Stable,4,2019,Gwalior
+796,69,Female,Allergic Reaction,Medication and Counseling,1909,3,Yes,Recovered,2,2021,Satna
+797,88,Female,Diabetes,Antibiotics and Rest,4627,6,No,Recovered,3,2020,Sagar
+798,42,Male,Fractured Leg,Antibiotics and Rest,9138,5,Yes,Stable,5,2018,Jabalpur
+799,27,Female,Allergic Reaction,Cardiac Catheterization,8436,8,No,Recovered,2,2017,Satna
+800,43,Male,Fractured Leg,Cast and Physical Therapy,18641,10,No,Recovered,4,2018,Gwalior
+801,64,Male,Heart Disease,Insulin Therapy,27390,3,No,Recovered,4,2019,Rewa
+802,70,Male,Stroke,Epinephrine Injection,9008,3,Yes,Recovered,1,2017,Gwalior
+803,28,Female,Cancer,Appendectomy,26861,3,Yes,Stable,5,2021,Satna
+804,86,Female,Prostate Cancer,Angioplasty,17220,3,Yes,Recovered,3,2020,Dewas
+805,24,Male,Osteoarthritis,Surgery and Chemotherapy,28186,1,Yes,Stable,3,2015,Jabalpur
+806,45,Female,Hypertension,Angioplasty,25594,12,No,Stable,1,2019,Jabalpur
+807,75,Female,Fractured Leg,Antibiotics and Rest,18967,2,Yes,Recovered,5,2017,Satna
+808,44,Male,Respiratory Infection,Cast and Physical Therapy,9273,4,No,Stable,4,2016,Sagar
+809,54,Male,Heart Disease,Insulin Therapy,20810,8,Yes,Recovered,4,2020,Ujjain
+810,32,Female,Cancer,Delivery and Postnatal Care,25644,1,No,Recovered,4,2017,Indore
+811,43,Male,Appendicitis,Delivery and Postnatal Care,11843,5,No,Recovered,3,2018,Jabalpur
+812,59,Male,Cancer,Physical Therapy and Pain Management,6379,3,No,Stable,2,2019,Rewa
+813,41,Female,Fractured Arm,Appendectomy,27168,2,No,Recovered,4,2019,Bhopal
+814,71,Male,Prostate Cancer,X-Ray and Splint,8970,13,No,Stable,3,2019,Bhopal
+815,62,Male,Appendicitis,Surgery and Chemotherapy,9758,13,Yes,Recovered,5,2019,Rewa
+816,49,Female,Childbirth,Antibiotics and Rest,18922,7,Yes,Stable,4,2020,Sagar
+817,22,Male,Kidney Stones,Medication and Counseling,23935,13,Yes,Recovered,3,2022,Jabalpur
+818,43,Female,Respiratory Infection,CT Scan and Medication,17254,8,No,Stable,1,2019,Ujjain
+819,77,Male,Fractured Leg,Medication and Counseling,18608,8,No,Stable,1,2020,Indore
+820,28,Female,Fractured Arm,Cardiac Catheterization,4723,12,No,Stable,3,2021,Indore
+821,47,Female,Kidney Stones,Insulin Therapy,1079,9,Yes,Recovered,5,2019,Ratlam
+822,70,Male,Childbirth,Radiation Therapy,26771,2,Yes,Stable,1,2022,Jabalpur
+823,45,Female,Heart Disease,X-Ray and Splint,27997,9,No,Recovered,1,2015,Ratlam
+824,52,Male,Stroke,Insulin Therapy,17641,14,Yes,Stable,4,2021,Satna
+825,84,Female,Allergic Reaction,Epinephrine Injection,20356,3,Yes,Stable,4,2018,Gwalior
+826,67,Female,Stroke,Surgery and Chemotherapy,2180,10,Yes,Stable,1,2020,Gwalior
+827,83,Male,Heart Attack,Cast and Physical Therapy,21410,7,Yes,Recovered,2,2017,Dewas
+828,51,Female,Heart Disease,Physical Therapy and Pain Management,4124,7,No,Stable,3,2017,Rewa
+829,38,Female,Allergic Reaction,Cast and Physical Therapy,11071,6,Yes,Stable,2,2022,Rewa
+830,67,Male,Fractured Arm,Insulin Therapy,22609,1,No,Recovered,3,2017,Ratlam
+831,49,Male,Appendicitis,Surgery and Chemotherapy,16634,1,Yes,Recovered,4,2016,Dewas
+832,47,Female,Hypertension,Physical Therapy and Pain Management,197,10,No,Stable,3,2020,Gwalior
+833,62,Male,Heart Attack,Cardiac Catheterization,25252,1,Yes,Stable,2,2017,Ratlam
+834,77,Female,Stroke,Angioplasty,12415,5,Yes,Stable,1,2015,Rewa
+835,69,Male,Stroke,Insulin Therapy,23385,10,No,Recovered,3,2015,Sagar
+836,69,Male,Respiratory Infection,Angioplasty,14463,3,Yes,Recovered,1,2015,Indore
+837,27,Female,Hypertension,Epinephrine Injection,4110,12,No,Recovered,5,2017,Indore
+838,87,Female,Cancer,CT Scan and Medication,7263,11,Yes,Recovered,4,2016,Satna
+839,73,Female,Hypertension,Lithotripsy,9446,5,Yes,Recovered,2,2015,Bhopal
+840,71,Male,Fractured Arm,CT Scan and Medication,23120,7,No,Stable,4,2020,Ratlam
+841,40,Male,Heart Attack,Insulin Therapy,25564,14,No,Recovered,4,2015,Sagar
+842,29,Female,Fractured Arm,Appendectomy,13780,9,No,Recovered,4,2018,Ujjain
+843,41,Male,Childbirth,X-Ray and Splint,25284,14,No,Stable,2,2019,Rewa
+844,51,Female,Respiratory Infection,Epinephrine Injection,27234,3,Yes,Recovered,2,2016,Ratlam
+845,23,Male,Heart Disease,Angioplasty,16166,10,Yes,Stable,1,2018,Ujjain
+846,56,Male,Kidney Stones,Insulin Therapy,9660,4,Yes,Recovered,3,2020,Sagar
+847,53,Female,Cancer,Angioplasty,21979,10,No,Recovered,4,2021,Indore
+848,71,Male,Heart Disease,Radiation Therapy,10285,6,Yes,Recovered,3,2016,Bhopal
+849,25,Male,Hypertension,Medication and Counseling,28722,12,No,Stable,5,2021,Dewas
+850,33,Female,Childbirth,Cardiac Catheterization,10136,1,No,Recovered,4,2020,Gwalior
+851,66,Female,Stroke,Cast and Physical Therapy,9144,5,No,Recovered,1,2022,Ujjain
+852,88,Female,Heart Attack,Insulin Therapy,28973,2,Yes,Recovered,2,2017,Ujjain
+853,25,Female,Stroke,Physical Therapy and Pain Management,22761,4,Yes,Recovered,5,2021,Sagar
+854,89,Male,Kidney Stones,X-Ray and Splint,21113,4,Yes,Stable,1,2021,Jabalpur
+855,64,Female,Kidney Stones,CT Scan and Medication,20181,3,No,Recovered,5,2015,Jabalpur
+856,28,Male,Hypertension,Medication and Counseling,20880,2,Yes,Stable,4,2019,Gwalior
+857,33,Female,Stroke,CT Scan and Medication,4546,13,Yes,Stable,1,2018,Sagar
+858,36,Female,Hypertension,Cast and Physical Therapy,28185,3,No,Recovered,3,2019,Ujjain
+859,63,Female,Osteoarthritis,X-Ray and Splint,22130,10,No,Recovered,2,2015,Ratlam
+860,30,Female,Hypertension,Surgery and Chemotherapy,10797,12,No,Stable,4,2015,Bhopal
+861,20,Female,Fractured Leg,Delivery and Postnatal Care,13728,1,No,Stable,4,2018,Gwalior
+862,82,Male,Diabetes,Radiation Therapy,23034,12,No,Recovered,3,2021,Ujjain
+863,71,Male,Respiratory Infection,Appendectomy,7794,10,Yes,Stable,5,2021,Sagar
+864,44,Male,Allergic Reaction,Antibiotics and Rest,4735,6,No,Recovered,1,2015,Gwalior
+865,34,Male,Childbirth,CT Scan and Medication,29589,2,Yes,Stable,5,2019,Rewa
+866,52,Female,Osteoarthritis,Surgery and Chemotherapy,15027,14,Yes,Recovered,2,2015,Ratlam
+867,27,Male,Fractured Leg,Antibiotics and Rest,17640,6,Yes,Recovered,2,2016,Indore
+868,52,Male,Fractured Leg,Radiation Therapy,16120,8,Yes,Stable,1,2021,Bhopal
+869,29,Male,Prostate Cancer,Appendectomy,13137,13,Yes,Stable,3,2017,Dewas
+870,28,Female,Stroke,Angioplasty,22535,11,No,Recovered,1,2020,Satna
+871,41,Male,Appendicitis,Appendectomy,26908,10,Yes,Stable,2,2022,Bhopal
+872,40,Male,Fractured Arm,Appendectomy,26708,9,No,Stable,1,2022,Ratlam
+873,63,Male,Respiratory Infection,Cast and Physical Therapy,3115,9,No,Stable,4,2017,Jabalpur
+874,51,Male,Hypertension,Radiation Therapy,19728,7,No,Stable,1,2021,Ratlam
+875,50,Male,Diabetes,Antibiotics and Rest,15217,3,Yes,Recovered,1,2017,Ujjain
+876,82,Female,Respiratory Infection,Epinephrine Injection,26805,5,Yes,Recovered,4,2019,Sagar
+877,24,Male,Respiratory Infection,Cast and Physical Therapy,27401,5,Yes,Recovered,1,2015,Ratlam
+878,35,Female,Fractured Leg,Cardiac Catheterization,10923,10,No,Stable,5,2017,Sagar
+879,57,Female,Heart Attack,Delivery and Postnatal Care,20932,12,Yes,Recovered,1,2020,Sagar
+880,39,Male,Childbirth,Radiation Therapy,16064,8,Yes,Stable,5,2017,Jabalpur
+881,53,Female,Appendicitis,Surgery and Chemotherapy,15885,1,No,Stable,2,2019,Bhopal
+882,68,Male,Cancer,Delivery and Postnatal Care,4917,10,No,Recovered,5,2020,Rewa
+883,50,Male,Respiratory Infection,X-Ray and Splint,5055,3,No,Recovered,5,2015,Jabalpur
+884,65,Male,Respiratory Infection,Appendectomy,29096,13,No,Stable,2,2017,Jabalpur
+885,85,Male,Respiratory Infection,Insulin Therapy,2433,6,No,Stable,5,2021,Bhopal
+886,54,Male,Heart Attack,Medication and Counseling,20336,4,No,Recovered,5,2020,Ujjain
+887,28,Male,Fractured Leg,Angioplasty,26475,14,Yes,Stable,4,2015,Ujjain
+888,44,Male,Allergic Reaction,Cast and Physical Therapy,27082,14,No,Stable,1,2015,Satna
+889,38,Female,Stroke,Antibiotics and Rest,28110,2,No,Stable,3,2016,Ujjain
+890,78,Male,Diabetes,Antibiotics and Rest,9312,10,Yes,Stable,5,2021,Bhopal
+891,32,Female,Fractured Leg,Delivery and Postnatal Care,22509,3,Yes,Recovered,1,2018,Sagar
+892,29,Female,Fractured Leg,Delivery and Postnatal Care,9280,9,No,Stable,3,2019,Jabalpur
+893,31,Female,Hypertension,Cardiac Catheterization,12191,10,No,Recovered,5,2015,Jabalpur
+894,79,Female,Cancer,Insulin Therapy,23569,11,No,Stable,1,2021,Rewa
+895,33,Female,Allergic Reaction,Physical Therapy and Pain Management,14135,10,Yes,Stable,5,2019,Rewa
+896,50,Male,Appendicitis,Radiation Therapy,25182,1,Yes,Recovered,2,2017,Ratlam
+897,45,Female,Childbirth,Antibiotics and Rest,4798,5,Yes,Recovered,4,2018,Ratlam
+898,38,Female,Allergic Reaction,Epinephrine Injection,13587,8,No,Stable,3,2021,Rewa
+899,49,Female,Cancer,Cast and Physical Therapy,15133,7,Yes,Stable,1,2016,Ujjain
+900,27,Female,Appendicitis,Cast and Physical Therapy,923,10,Yes,Recovered,2,2017,Ratlam
+901,37,Male,Kidney Stones,Epinephrine Injection,21599,3,Yes,Stable,3,2020,Ratlam
+902,58,Male,Kidney Stones,Cardiac Catheterization,15702,9,Yes,Recovered,5,2021,Jabalpur
+903,74,Male,Hypertension,Physical Therapy and Pain Management,9312,8,No,Stable,1,2019,Bhopal
+904,24,Female,Diabetes,Angioplasty,4040,11,No,Stable,5,2022,Indore
+905,59,Male,Appendicitis,Delivery and Postnatal Care,18665,4,No,Recovered,3,2022,Jabalpur
+906,53,Male,Hypertension,X-Ray and Splint,23548,4,Yes,Recovered,3,2018,Ratlam
+907,35,Female,Prostate Cancer,Medication and Counseling,19225,7,Yes,Recovered,4,2018,Jabalpur
+908,72,Female,Stroke,Epinephrine Injection,5121,9,Yes,Recovered,1,2017,Bhopal
+909,51,Male,Hypertension,Radiation Therapy,8855,1,No,Recovered,4,2017,Gwalior
+910,25,Female,Cancer,Lithotripsy,25468,3,No,Recovered,1,2021,Ujjain
+911,21,Female,Allergic Reaction,CT Scan and Medication,13469,9,Yes,Stable,1,2015,Jabalpur
+912,27,Female,Stroke,Insulin Therapy,17355,3,Yes,Recovered,4,2018,Satna
+913,57,Male,Childbirth,Epinephrine Injection,17607,7,Yes,Stable,3,2020,Sagar
+914,28,Female,Diabetes,Surgery and Chemotherapy,10224,3,Yes,Stable,4,2021,Gwalior
+915,75,Male,Fractured Arm,Physical Therapy and Pain Management,2962,13,Yes,Recovered,4,2021,Bhopal
+916,61,Female,Fractured Leg,X-Ray and Splint,18895,1,Yes,Stable,1,2018,Gwalior
+917,54,Male,Heart Disease,Lithotripsy,27129,7,Yes,Stable,1,2019,Gwalior
+918,77,Male,Fractured Arm,Medication and Counseling,29753,10,No,Recovered,4,2021,Ujjain
+919,31,Female,Heart Attack,Cast and Physical Therapy,15401,7,Yes,Recovered,1,2021,Satna
+920,49,Male,Fractured Arm,Epinephrine Injection,2694,13,No,Stable,4,2018,Ujjain
+921,30,Male,Stroke,Epinephrine Injection,20453,7,No,Recovered,4,2018,Rewa
+922,54,Male,Respiratory Infection,Appendectomy,3521,4,Yes,Recovered,3,2021,Sagar
+923,81,Female,Prostate Cancer,Delivery and Postnatal Care,14425,8,No,Stable,3,2021,Sagar
+924,26,Male,Prostate Cancer,Medication and Counseling,3615,1,No,Recovered,2,2018,Ujjain
+925,63,Male,Allergic Reaction,Physical Therapy and Pain Management,19958,1,No,Stable,5,2015,Satna
+926,31,Female,Prostate Cancer,Physical Therapy and Pain Management,23041,14,Yes,Stable,1,2019,Jabalpur
+927,52,Male,Kidney Stones,Surgery and Chemotherapy,520,1,No,Stable,5,2017,Jabalpur
+928,69,Male,Stroke,Lithotripsy,21671,10,No,Stable,2,2019,Indore
+929,27,Female,Prostate Cancer,Surgery and Chemotherapy,18185,4,Yes,Recovered,1,2018,Indore
+930,47,Male,Allergic Reaction,Cast and Physical Therapy,16461,8,Yes,Recovered,5,2016,Sagar
+931,66,Female,Appendicitis,Medication and Counseling,27774,13,No,Recovered,3,2022,Bhopal
+932,50,Male,Cancer,Physical Therapy and Pain Management,25091,4,No,Stable,2,2016,Jabalpur
+933,29,Female,Cancer,Delivery and Postnatal Care,2463,13,No,Stable,1,2015,Satna
+934,48,Male,Fractured Leg,Insulin Therapy,26772,6,No,Recovered,1,2021,Sagar
+935,85,Male,Diabetes,Radiation Therapy,28329,7,No,Recovered,2,2018,Gwalior
+936,43,Male,Cancer,Lithotripsy,9983,13,Yes,Stable,3,2022,Dewas
+937,46,Female,Heart Attack,CT Scan and Medication,16807,6,No,Recovered,4,2020,Ratlam
+938,22,Female,Hypertension,Antibiotics and Rest,16650,12,No,Stable,1,2017,Bhopal
+939,22,Male,Respiratory Infection,Radiation Therapy,20147,10,No,Recovered,5,2017,Sagar
+940,28,Male,Respiratory Infection,Surgery and Chemotherapy,24664,7,No,Stable,4,2016,Jabalpur
+941,40,Male,Stroke,Angioplasty,4622,11,No,Stable,5,2016,Ratlam
+942,69,Female,Heart Disease,Medication and Counseling,25470,6,No,Recovered,3,2020,Dewas
+943,24,Female,Kidney Stones,Angioplasty,7695,11,No,Recovered,3,2017,Jabalpur
+944,61,Male,Cancer,Angioplasty,29498,8,Yes,Recovered,2,2022,Satna
+945,51,Female,Hypertension,CT Scan and Medication,8123,2,Yes,Stable,2,2017,Jabalpur
+946,45,Female,Kidney Stones,CT Scan and Medication,4323,12,Yes,Recovered,5,2022,Ratlam
+947,51,Male,Childbirth,Appendectomy,23068,12,No,Recovered,2,2015,Jabalpur
+948,41,Male,Cancer,Appendectomy,28117,13,No,Stable,3,2016,Indore
+949,69,Female,Fractured Arm,CT Scan and Medication,18353,5,Yes,Recovered,3,2022,Sagar
+950,34,Female,Diabetes,Surgery and Chemotherapy,10736,8,No,Stable,1,2016,Rewa
+951,40,Male,Cancer,Physical Therapy and Pain Management,9925,4,No,Stable,1,2015,Satna
+952,88,Male,Appendicitis,Lithotripsy,19827,2,Yes,Recovered,5,2015,Jabalpur
+953,28,Female,Allergic Reaction,Radiation Therapy,14607,3,Yes,Stable,3,2022,Ratlam
+954,24,Female,Prostate Cancer,Medication and Counseling,24943,9,No,Stable,5,2018,Gwalior
+955,78,Female,Hypertension,Lithotripsy,11795,5,Yes,Recovered,3,2022,Indore
+956,51,Female,Heart Attack,Angioplasty,21240,6,No,Recovered,1,2021,Ratlam
+957,63,Female,Kidney Stones,Cast and Physical Therapy,1690,1,No,Stable,4,2018,Bhopal
+958,57,Male,Cancer,CT Scan and Medication,20421,9,Yes,Recovered,4,2021,Dewas
+959,81,Female,Heart Disease,Appendectomy,20798,3,No,Recovered,2,2020,Indore
+960,47,Female,Hypertension,Epinephrine Injection,5442,12,Yes,Stable,2,2018,Dewas
+961,56,Female,Hypertension,X-Ray and Splint,19852,2,No,Recovered,4,2015,Rewa
+962,60,Male,Appendicitis,Surgery and Chemotherapy,27377,12,Yes,Stable,3,2016,Gwalior
+963,58,Female,Heart Attack,Epinephrine Injection,28465,1,Yes,Stable,1,2015,Dewas
+964,68,Female,Appendicitis,Insulin Therapy,27853,2,Yes,Recovered,4,2022,Rewa
+965,66,Male,Stroke,Physical Therapy and Pain Management,29835,8,No,Recovered,2,2021,Gwalior
+966,47,Male,Fractured Arm,Cast and Physical Therapy,13214,13,Yes,Stable,5,2018,Ratlam
+967,61,Female,Osteoarthritis,Cardiac Catheterization,28530,7,Yes,Stable,5,2020,Bhopal
+968,65,Female,Prostate Cancer,Epinephrine Injection,7884,14,No,Stable,3,2022,Jabalpur
+969,69,Female,Fractured Arm,Cast and Physical Therapy,13471,3,Yes,Recovered,4,2016,Gwalior
+970,78,Female,Appendicitis,Physical Therapy and Pain Management,13214,8,No,Recovered,4,2017,Satna
+971,79,Female,Kidney Stones,Appendectomy,7669,10,Yes,Recovered,1,2020,Jabalpur
+972,41,Female,Kidney Stones,Angioplasty,29616,4,Yes,Stable,5,2019,Ujjain
+973,35,Female,Respiratory Infection,Delivery and Postnatal Care,6765,9,No,Stable,5,2022,Dewas
+974,20,Female,Allergic Reaction,CT Scan and Medication,14555,4,Yes,Stable,2,2016,Dewas
+975,29,Female,Prostate Cancer,Radiation Therapy,9939,11,No,Recovered,3,2021,Indore
+976,78,Male,Diabetes,Antibiotics and Rest,23233,9,No,Stable,3,2019,Ujjain
+977,75,Female,Appendicitis,Angioplasty,5422,4,No,Stable,4,2021,Indore
+978,52,Female,Hypertension,Epinephrine Injection,11208,12,Yes,Recovered,2,2019,Sagar
+979,41,Male,Heart Disease,Cast and Physical Therapy,11088,6,Yes,Recovered,2,2022,Jabalpur
+980,56,Male,Hypertension,Appendectomy,26447,7,No,Stable,4,2017,Sagar
+981,70,Male,Heart Disease,Epinephrine Injection,24290,6,No,Stable,3,2020,Ratlam
+982,57,Male,Heart Disease,Cardiac Catheterization,17361,3,No,Recovered,1,2017,Ratlam
+983,78,Male,Heart Disease,Appendectomy,11515,14,Yes,Stable,4,2019,Ujjain
+984,41,Female,Hypertension,Delivery and Postnatal Care,7482,8,Yes,Recovered,3,2019,Gwalior
+985,78,Female,Childbirth,Cast and Physical Therapy,28704,1,Yes,Stable,3,2018,Sagar
+986,62,Female,Fractured Arm,Angioplasty,4934,1,Yes,Stable,2,2015,Bhopal
+987,55,Male,Osteoarthritis,Angioplasty,28982,9,No,Recovered,2,2021,Rewa
+988,79,Male,Hypertension,Delivery and Postnatal Care,9347,10,No,Stable,2,2015,Ujjain
+989,82,Male,Respiratory Infection,Radiation Therapy,15032,13,No,Stable,4,2016,Sagar
+990,53,Male,Kidney Stones,CT Scan and Medication,4235,9,Yes,Stable,5,2018,Satna
+991,88,Male,Fractured Leg,Lithotripsy,2901,9,Yes,Recovered,1,2016,Indore
+992,73,Female,Allergic Reaction,Surgery and Chemotherapy,11776,1,Yes,Stable,2,2015,Ujjain
+993,52,Male,Hypertension,Lithotripsy,16526,3,No,Stable,5,2022,Dewas
+994,75,Male,Fractured Arm,Surgery and Chemotherapy,17749,8,Yes,Recovered,3,2017,Gwalior
+995,81,Female,Diabetes,CT Scan and Medication,22585,2,No,Recovered,2,2019,Rewa
+996,63,Female,Heart Disease,Appendectomy,28718,3,No,Stable,1,2022,Jabalpur
+997,81,Female,Kidney Stones,Radiation Therapy,14684,5,Yes,Recovered,5,2018,Gwalior
+998,38,Female,Kidney Stones,Cast and Physical Therapy,28002,9,Yes,Recovered,5,2019,Sagar
+999,45,Female,Heart Disease,Surgery and Chemotherapy,27130,5,No,Recovered,5,2020,Ujjain
+1000,64,Male,Heart Attack,Delivery and Postnatal Care,2160,14,Yes,Stable,4,2019,Ujjain
