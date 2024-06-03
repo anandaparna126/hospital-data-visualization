@@ -55,6 +55,6 @@ The dataset used for this analysis may have its own licensing terms. Please refe
 
 ## Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact anandaparna1203@gmail.com .
 
 Thank you for your interest in this hospital dataset visualization analysis using Power BI!
